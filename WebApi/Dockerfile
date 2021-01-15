@@ -7,10 +7,12 @@ EXPOSE 443
 
 FROM mcr.microsoft.com/dotnet/sdk:5.0 AS build
 WORKDIR /src
-COPY ["ThreadInMotionInterviewTask/WebApi.csproj", "ThreadInMotionInterviewTask/"]
-RUN dotnet restore "ThreadInMotionInterviewTask/WebApi.csproj"
+COPY ["WebApi/WebApi.csproj", "WebApi/"]
+COPY ["DataAccess/DataAccess.csproj", "DataAccess/"]
+COPY ["Entities/Entities.csproj", "Entities/"]
+RUN dotnet restore "WebApi/WebApi.csproj"
 COPY . .
-WORKDIR "/src/ThreadInMotionInterviewTask"
+WORKDIR "/src/WebApi"
 RUN dotnet build "WebApi.csproj" -c Release -o /app/build
 
 FROM build AS publish
