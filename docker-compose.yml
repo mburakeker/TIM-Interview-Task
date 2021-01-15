@@ -5,16 +5,25 @@ networks:
 
 services:
   webapi:
+    container_name: WebApi
     image: ${DOCKER_REGISTRY-}webapi
     build:
       context: .
-      dockerfile: ThreadInMotionInterviewTask/Dockerfile
+      dockerfile: WebApi/Dockerfile
+    environment:
+      DB_CONNECTION_STRING: "Server=mssql;Database=Library;User ID=sa;Password=Sa_password!;"
     networks:
       - api
-  db:
+    ports:
+      - "5000:443"
+      - "5001:80"
+  mssql:
+    container_name: MSSQL
     image: "mcr.microsoft.com/mssql/server"
     environment:
-        SA_PASSWORD: "sapassword!"
+        SA_PASSWORD: "Sa_password!"
         ACCEPT_EULA: "Y"
+    ports:
+      - "1433:1433"
     networks:
       - api
