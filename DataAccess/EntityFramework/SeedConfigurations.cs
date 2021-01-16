@@ -9,12 +9,11 @@ namespace DataAccess.EntityFramework
     {
         public static void ConfigureGenFu()
         {
-            
             A.Configure<Book>()
                 .Fill(b => b.Author).AsMusicArtistName()
                 .Fill(b => b.BookName).AsMusicGenreName()
                 .Fill(b=>b.IsbnId, Utils.GenerateIsbnId)
-                .Fill(b=>b.Count,() => new Random().Next(0,4));
+                .Fill(b=>b.Count).WithinRange(0,5);
             var index = 1;
             A.Configure<Member>()
                 .Fill(m => m.PhoneNumber).AsPhoneNumber()

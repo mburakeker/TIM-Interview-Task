@@ -10,1050 +10,1050 @@ namespace DataAccess.Migrations
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "0018002062960");
+                keyValue: "0000444553341");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "0023012093008");
+                keyValue: "0033159407937");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "0113771319471");
+                keyValue: "0159447532742");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "0168671924105");
+                keyValue: "0222493740167");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "0193103389832");
+                keyValue: "0225403616917");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "0266116448657");
+                keyValue: "0275430304882");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "0293563451143");
+                keyValue: "0293198318608");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "0298275287221");
+                keyValue: "0302328603509");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "0302531185230");
+                keyValue: "0309665911463");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "0353837847875");
+                keyValue: "0401569264851");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "0373373714166");
+                keyValue: "0404037522077");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "0374517297284");
+                keyValue: "0408982509903");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "0558053896195");
+                keyValue: "0442080291296");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "0611160809575");
+                keyValue: "0451728071797");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "0614337528457");
+                keyValue: "0519060239347");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "0635498971091");
+                keyValue: "0523745856946");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "0674595230406");
+                keyValue: "0524013306798");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "0680331422347");
+                keyValue: "0525931145093");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "0770057649771");
+                keyValue: "0594876721637");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "0796402022542");
+                keyValue: "0625430358259");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "0829887473534");
+                keyValue: "0649010978426");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "0916284906869");
+                keyValue: "0652511971561");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "0921159335040");
+                keyValue: "0675631421591");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "0951074427841");
+                keyValue: "0914260699643");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "0972862428215");
+                keyValue: "0939829818265");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "1008482657252");
+                keyValue: "0986745881287");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "1105469738646");
+                keyValue: "1019347155282");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "1149963622231");
+                keyValue: "1022369291702");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "1171422488890");
+                keyValue: "1025115734625");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "1181997823789");
+                keyValue: "1137143772323");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "1249404242079");
+                keyValue: "1138372050579");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "1310026655497");
+                keyValue: "1192415674827");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "1369818046770");
+                keyValue: "1200196557874");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "1387670595902");
+                keyValue: "1202639278624");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "1424608715224");
+                keyValue: "1215001123620");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "1433384780415");
+                keyValue: "1232266985089");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "1436988379607");
+                keyValue: "1353829531383");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "1463953494758");
+                keyValue: "1413903893531");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "1531736077558");
+                keyValue: "1455476020175");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "1532599422495");
+                keyValue: "1474870546402");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "1558432403980");
+                keyValue: "1528371095501");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "1565268516273");
+                keyValue: "1605126811368");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "1572971468264");
+                keyValue: "1629348519600");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "1574147602106");
+                keyValue: "1639258706332");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "1589350070068");
+                keyValue: "1651627308927");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "1692906452134");
+                keyValue: "1681718248784");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "1746512711494");
+                keyValue: "1721904956108");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "1900299748785");
+                keyValue: "1770338961248");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "1925882392677");
+                keyValue: "1781253319684");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "1970086418565");
+                keyValue: "1802763132568");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "2022446580281");
+                keyValue: "1824875762553");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "2113543169048");
+                keyValue: "1845183088510");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "2170052953169");
+                keyValue: "2090266708970");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "2221116372535");
+                keyValue: "2102973872057");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "2296465171172");
+                keyValue: "2315627832481");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "2309872315364");
+                keyValue: "2328246647036");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "2310815774860");
+                keyValue: "2359703779748");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "2434743979503");
+                keyValue: "2373906637541");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "2436432695641");
+                keyValue: "2484428525369");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "2476534456564");
+                keyValue: "2490863838732");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "2491841197898");
+                keyValue: "2702809113855");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "2491950502329");
+                keyValue: "2728343632158");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "2513652608678");
+                keyValue: "2730749510559");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "2579532305274");
+                keyValue: "2779430793957");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "2690018014107");
+                keyValue: "2799691114245");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "2700599263078");
+                keyValue: "2863157437898");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "2766738206063");
+                keyValue: "2877277522024");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "2782782921280");
+                keyValue: "2916660387663");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "2892412478900");
+                keyValue: "2927359957544");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "2921191209226");
+                keyValue: "2944825869053");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "2966855138490");
+                keyValue: "2960991993233");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "2990492267184");
+                keyValue: "3006932313452");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "3162372697317");
+                keyValue: "3220493536430");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "3310709684152");
+                keyValue: "3301752931091");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "3315099223084");
+                keyValue: "3303543295593");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "3321041750646");
+                keyValue: "3313163759234");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "3406641175603");
+                keyValue: "3346238435326");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "3470943661939");
+                keyValue: "3357215325839");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "3534785739108");
+                keyValue: "3389213192262");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "3568541957732");
+                keyValue: "3410968979323");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "3617592757519");
+                keyValue: "3440399056157");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "3682902505406");
+                keyValue: "3554496002302");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "3745541562611");
+                keyValue: "3597290453646");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "3757271002199");
+                keyValue: "3603409817166");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "3774088786966");
+                keyValue: "3745892818106");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "3782482046704");
+                keyValue: "3806795846601");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "3805894763740");
+                keyValue: "3884883049814");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "3822315428099");
+                keyValue: "3934224823627");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "3867435020510");
+                keyValue: "3952821949894");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "3952100962639");
+                keyValue: "3980715321187");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "4066545814895");
+                keyValue: "3982434858617");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "4074930506838");
+                keyValue: "3986977894192");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "4086669946425");
+                keyValue: "4032652513734");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "4145312359189");
+                keyValue: "4077424477123");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "4212240390987");
+                keyValue: "4096027239276");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "4239983504446");
+                keyValue: "4310358326396");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "4249993776321");
+                keyValue: "4317364941704");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "4293004776859");
+                keyValue: "4331517537070");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "4318345812481");
+                keyValue: "4432812989324");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "4363861322824");
+                keyValue: "4453811786022");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "4401085461589");
+                keyValue: "4502703758386");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "4462177381419");
+                keyValue: "4802297915008");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "4589325737983");
+                keyValue: "4860130740721");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "4608265372476");
+                keyValue: "4880329718845");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "4622346349289");
+                keyValue: "4884573817428");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "4624476046023");
+                keyValue: "5017384748736");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "4732604102549");
+                keyValue: "5024825206553");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "4736125091396");
+                keyValue: "5050322275884");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "4767288869858");
+                keyValue: "5094881032984");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "4885315252668");
+                keyValue: "5167836124857");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "4931026453225");
+                keyValue: "5209975288043");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "4941249425273");
+                keyValue: "5504917731025");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "4976680262243");
+                keyValue: "5505551027719");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "4984343222811");
+                keyValue: "5516437303639");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "5003117930950");
+                keyValue: "5539355897790");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "5023664780386");
+                keyValue: "5566261904533");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "5240547531943");
+                keyValue: "5665376337633");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "5306302724345");
+                keyValue: "5785541004715");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "5335009546069");
+                keyValue: "5821172442709");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "5427069110846");
+                keyValue: "5903999182933");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "5445967852957");
+                keyValue: "5914765359353");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "5510419929482");
+                keyValue: "5956550817920");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "5534691338389");
+                keyValue: "5966404289730");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "5538425960674");
+                keyValue: "5978725280032");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "5580351992949");
+                keyValue: "6104937394154");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "5672042348236");
+                keyValue: "6164332648537");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "5745094209268");
+                keyValue: "6190323431552");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "5872052906348");
+                keyValue: "6306912207556");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "5912245997965");
+                keyValue: "6342323032661");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "5961519598431");
+                keyValue: "6378583926205");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "5963985717024");
+                keyValue: "6379930227444");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "5980028580766");
+                keyValue: "6625844999270");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "6037426810177");
+                keyValue: "6637208640474");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "6101437808096");
+                keyValue: "6646252652661");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "6198836740537");
+                keyValue: "6773911495961");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "6234111032296");
+                keyValue: "6800915822519");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "6265316611279");
+                keyValue: "6812441187163");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "6326401484556");
+                keyValue: "6930906514235");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "6330768027667");
+                keyValue: "7011475466543");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "6360273616245");
+                keyValue: "7037469109676");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "6440204202412");
+                keyValue: "7055729903821");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "6457807253891");
+                keyValue: "7134769329952");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "6472699907930");
+                keyValue: "7199375387702");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "6525750000499");
+                keyValue: "7300460942471");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "6541527938892");
+                keyValue: "7339009610668");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "6561675118290");
+                keyValue: "7400859921856");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "6584833488979");
+                keyValue: "7562200747398");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "6790441026833");
+                keyValue: "7592815220764");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "6809583039145");
+                keyValue: "7777339078335");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "6865478461589");
+                keyValue: "7811459048241");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "6868574127264");
+                keyValue: "7824313786722");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "6869164468322");
+                keyValue: "7891957527041");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "6891194601030");
+                keyValue: "7948842251659");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "6969897167384");
+                keyValue: "7972119417071");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "6974898484262");
+                keyValue: "7986235128110");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "6997737146919");
+                keyValue: "8023133971415");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "7021474358960");
+                keyValue: "8106984647532");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "7100805754499");
+                keyValue: "8145869796816");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "7116768342156");
+                keyValue: "8150400921691");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "7129035680462");
+                keyValue: "8189427658712");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "7194645590452");
+                keyValue: "8259612740415");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "7205019943841");
+                keyValue: "8343531677823");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "7230269334689");
+                keyValue: "8351513099078");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "7250698733664");
+                keyValue: "8353494899159");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "7544169109510");
+                keyValue: "8436915081057");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "7763691850705");
+                keyValue: "8439740947562");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "7765266744651");
+                keyValue: "8442473888546");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "7800234272850");
+                keyValue: "8510412680942");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "7921389261517");
+                keyValue: "8527630418618");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "7935503034935");
+                keyValue: "8549701537035");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "7950659441261");
+                keyValue: "8560411856419");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "7969344670181");
+                keyValue: "8569318332696");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "8052184966186");
+                keyValue: "8622818302093");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "8146265346826");
+                keyValue: "8652781739441");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "8150713538301");
+                keyValue: "8753534699837");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "8178424185389");
+                keyValue: "8846553533386");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "8186715422361");
+                keyValue: "8886398468327");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "8333925902443");
+                keyValue: "8893328626061");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "8419646953527");
+                keyValue: "9097016190577");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "8455028777209");
+                keyValue: "9129600196170");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "8485759647523");
+                keyValue: "9218094430923");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "8642429531863");
+                keyValue: "9226029623631");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "8651639755438");
+                keyValue: "9288346216779");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "8664014795469");
+                keyValue: "9356526179527");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "8809684626566");
+                keyValue: "9394205281816");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "8933409113417");
+                keyValue: "9396808764722");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "8957867348608");
+                keyValue: "9515927822116");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "9000166389142");
+                keyValue: "9535230513327");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "9129706697912");
+                keyValue: "9556244777205");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "9246277388905");
+                keyValue: "9561942698182");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "9251568016083");
+                keyValue: "9577535896875");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "9578248630414");
+                keyValue: "9591526185511");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "9593274347470");
+                keyValue: "9603526679889");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "9691580406065");
+                keyValue: "9733366833792");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "9731313025699");
+                keyValue: "9750300247358");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "9758589218269");
+                keyValue: "9896391791304");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "9865337857489");
+                keyValue: "9897354350934");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "9939440481310");
+                keyValue: "9925998172154");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "9972468250443");
+                keyValue: "9940055103223");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "9996990546133");
+                keyValue: "9964374513881");
 
             migrationBuilder.InsertData(
                 table: "Books",
                 columns: new[] { "IsbnId", "Author", "BookName", "Count" },
                 values: new object[,]
                 {
-                    { "0725545535804", "Mood Ruff", "Brazillian Blues", 2 },
-                    { "9292065190615", "Last Man Out", "Hard Emo", 1 },
-                    { "0442245915804", "Mercy, the Sexton", "Folk", 2 },
-                    { "7211926682196", "Moneen", "Rock", 0 },
-                    { "4049478632980", "Lost & Profound", "Rock", 1 },
-                    { "1688392775136", "B'z", "Folk", 2 },
-                    { "6680246324330", "Mahogany Rush", "Dance", 1 },
-                    { "2248835142323", "The Luyas", "Acid Rock", 0 },
-                    { "3599482494009", "Mahogany Rush", "African Doo-Wop", 1 },
-                    { "0336034148709", "Machete Avenue", "Hard Jazz", 0 },
-                    { "4470402926473", "Mashmakhan", "Easy Listening", 1 },
-                    { "2435323063146", "ABBA", "Asian Funk", 0 },
-                    { "8244445119747", "The McDades", "Acid Pop", 0 },
-                    { "0757780752973", "Letters to Elora", "Grunge", 3 },
-                    { "7898774542091", "Linda Ronstadt", "Dance", 3 },
-                    { "0954191374262", "The Moffatts", "Classical", 0 },
-                    { "5160418899766", "Barbra Streisand", "Funk", 0 },
-                    { "1427385929186", "Marilyn's Vitamins", "Glam Jazz", 0 },
-                    { "1426587791587", "The Mahones", "Easy Listening", 0 },
-                    { "2085183045573", "Stevie Wonder", "Folk", 1 },
-                    { "9764887193145", "Lightning Dust", "Emo", 3 },
-                    { "0995231063984", "Tina Turner", "Fresh Folk", 2 },
-                    { "2644216084095", "Julio Iglesias", "Jazz", 3 },
-                    { "2533653007753", "New Kids on the Block", "African Emo", 0 },
-                    { "8563915447642", "The Memories Attack", "Folk", 3 },
-                    { "5221462963219", "Malajube", "Brazillian Rock", 1 },
-                    { "5968647421690", "The Carpenters", "Classic Rock", 1 },
-                    { "0796899588837", "Maow", "Kansas City Emo", 0 },
-                    { "2679472798756", "Last Man Out", "Kansas City Easy Listening", 2 },
-                    { "5566767220221", "New Kids on the Block", "Rock", 1 },
-                    { "2336587518276", "Mudmen", "Doo-Wop", 3 },
-                    { "8269446514442", "Barbra Streisand", "Classic Emo", 1 },
-                    { "2293574215782", "MCJ & Cool G", "Modern Jazz", 2 },
-                    { "3164384730015", "The McRackins", "Grunge", 3 },
-                    { "2161688037979", "Last Man Out", "Jazz", 0 },
-                    { "1921717825362", "Mobile", "Acid Classical", 3 },
-                    { "2992433070788", "Red Hot Chili Peppers", "Caribbean Pop", 2 },
-                    { "4302202036220", "The Memories Attack", "Pop", 2 },
-                    { "1309828823060", "Mercy, the Sexton", "Avant-Garde Rock", 2 },
-                    { "4011494769364", "Rihanna", "Caribbean Grunge", 2 },
-                    { "2581278082718", "Lillix", "Jazz", 1 },
-                    { "7921970869664", "Martyr", "Acid Jazz", 2 }
+                    { "4781011772554", "Local Rabbits", "Electronic Rock", 3 },
+                    { "5888943154293", "Mean Red Spiders", "Classic Pop", 0 },
+                    { "4325783135583", "Elvis Presley", "Kansas City Doo-Wop", 3 },
+                    { "2693450365469", "Mythos", "Folk", 3 },
+                    { "1604448383811", "Rod Stewart", "Hard Jazz", 0 },
+                    { "8200161343634", "The Lowest of the Low", "Grunge", 4 },
+                    { "7471506717505", "Martha and the Muffins", "House", 0 },
+                    { "9851449403869", "Mare", "Jazzy Rock", 4 },
+                    { "0712362327663", "Lili Fatale", "Rock", 4 },
+                    { "8282467571996", "Malhavoc", "Hard Blues", 4 },
+                    { "9413765962000", "The Memories Attack", "Rock", 2 },
+                    { "4139835873092", "Mare", "Folk", 4 },
+                    { "3026118754882", "Lillix", "Modern Screamo", 2 },
+                    { "2266232862536", "Little Girls", "Folk", 2 },
+                    { "4578095488232", "Memphis", "Electronic Rock", 0 },
+                    { "3593970947043", "Julio Iglesias", "House", 3 },
+                    { "9038524173842", "Moneyshot", "Asian Rock", 1 },
+                    { "8381376435130", "B'z", "Easy Listening", 4 },
+                    { "3695810619492", "The Who", "R&B", 3 },
+                    { "7897617202181", "Ladyhawk", "Children's", 4 },
+                    { "0490050574875", "Merryweather", "House", 0 },
+                    { "3383616243030", "Leahy", "Jazz", 0 },
+                    { "3135291974206", "Magneta Lane", "Easy Listening", 0 },
+                    { "0401757650068", "Love Inc.", "Glam Emo", 2 },
+                    { "8008122402404", "Love and Sas", "Emo", 3 },
+                    { "2329599149505", "Men Without Hats", "Avant-Garde Rock", 1 },
+                    { "3320846842940", "Last Man Out", "Fresh Rock", 2 },
+                    { "4560939501920", "Masochistic Religion", "Glam House", 1 },
+                    { "1624102149248", "Me Mom & Morgentaler", "Blues", 1 },
+                    { "9814957866928", "Garth Brooks", "Jazz", 3 },
+                    { "9880648431693", "Lee Harvey Osmond", "Fresh Folk", 0 },
+                    { "4553462393093", "Metallica", "Free Jazz", 0 },
+                    { "4431032025379", "Mashmakhan", "Acid Emo", 4 },
+                    { "9365317116043", "Kenny Rogers", "Folk", 4 },
+                    { "4041937101117", "Matt Mays & El Torpedo", "Hard Emo", 2 },
+                    { "0184969907727", "Lost & Profound", "Fresh Rock", 0 },
+                    { "5531710684821", "Led Zeppelin", "Jazz", 0 },
+                    { "1578968333412", "Cher", "Doo-Wop", 0 },
+                    { "0076314725317", "Magneta Lane", "Rock", 0 },
+                    { "1574911947019", "The Doors", "Kansas City Classical", 1 },
+                    { "1969037659804", "Merlin", "Jazz", 0 },
+                    { "3372639975293", "Gloria Estefan", "Rock", 3 }
                 });
 
             migrationBuilder.InsertData(
@@ -1061,48 +1061,48 @@ namespace DataAccess.Migrations
                 columns: new[] { "IsbnId", "Author", "BookName", "Count" },
                 values: new object[,]
                 {
-                    { "2315657165931", "Lola Dutronic", "Emo", 3 },
-                    { "3164987622496", "The Carpenters", "Blues", 3 },
-                    { "4043900950795", "Moev", "Children's", 2 },
-                    { "0870494602193", "The Manvils", "Electronic Children's", 2 },
-                    { "4651164133086", "Mes Aïeux", "R&B", 0 },
-                    { "2207257133912", "The McRackins", "Rock", 2 },
-                    { "7876871770107", "The Lincolns", "Folk", 3 },
-                    { "6246234888316", "McMaster & James", "Dance", 0 },
-                    { "6176824908208", "Lost & Profound", "Fresh Funk", 2 },
-                    { "9759159170568", "Guns N' Roses", "Blues", 1 },
-                    { "2972855150918", "McMaster & James", "Rock", 3 },
-                    { "2666020193468", "The McRackins", "Rock", 2 },
-                    { "5612802562220", "Lili Fatale", "Screamo", 3 },
-                    { "4159169168430", "Lace", "Folk", 2 },
-                    { "1802653704300", "Metric", "Emo", 3 },
-                    { "2676140970456", "New Kids on the Block", "Children's", 1 },
-                    { "9387229753422", "Mandala", "African Doo-Wop", 1 },
-                    { "8068594505941", "Moneen", "Hard Children's", 3 },
-                    { "3244345322661", "Manic Drive", "Jazzy Doo-Wop", 1 },
-                    { "9711957228094", "The Most Serene Republic", "Fresh R&B", 0 },
-                    { "1276514262745", "The Lemon Bucket Orkestra", "Rock", 1 },
-                    { "0200615710287", "Johnny Hallyday", "Screamo", 1 },
-                    { "6846178429488", "The Lowest of the Low", "Emo", 0 },
-                    { "5522001698557", "Santana", "Acid R&B", 0 },
-                    { "0444924673548", "Olivia Newton-John", "Glam Emo", 2 },
-                    { "8397622112115", "Genesis", "Jazz", 0 },
-                    { "2256230460303", "Loverboy", "Hard Dance", 1 },
-                    { "7327518863593", "LiveonRelease", "Acid Children's", 2 },
-                    { "2655501742196", "Mahogany Rush", "Blues", 2 },
-                    { "3077326835680", "Mecca Normal", "Grunge", 1 },
-                    { "7761264532525", "Bruce Springsteen", "Rock", 2 },
-                    { "0558763236576", "Lost & Profound", "Acid House", 1 },
-                    { "4174739224134", "The Lovely Feathers", "House", 1 },
-                    { "3923183477774", "The Doors", "Avant-Garde Screamo", 2 },
-                    { "3371688533088", "Lotus Child", "Asian Rock", 1 },
-                    { "2477855734624", "Van Halen", "Classical", 2 },
-                    { "3180778881558", "Mandala", "Caribbean Emo", 1 },
-                    { "2939785929442", "The Lovely Feathers", "Acid Emo", 2 },
-                    { "1589206302418", "Moev", "Classical", 2 },
-                    { "1565152061195", "Live on Arrival", "African Emo", 0 },
-                    { "0351137436078", "Prince", "Easy Listening", 2 },
-                    { "8469298492804", "Messenjah", "Doo-Wop", 0 }
+                    { "6012789373160", "Messenjah", "Modern Dance", 2 },
+                    { "5789672947721", "Live on Arrival", "R&B", 1 },
+                    { "6245114672529", "The Latency", "Fresh Folk", 4 },
+                    { "3592163795129", "Loverboy", "Brazillian Blues", 2 },
+                    { "6388592010989", "Men Without Hats", "Jazzy Children's", 2 },
+                    { "7768708548616", "Bon Jovi", "Grunge", 1 },
+                    { "2781968260096", "The Beatles", "Kansas City Rock", 0 },
+                    { "3023696754919", "The Latency", "Dance", 1 },
+                    { "5253963757227", "R.E.M.", "Folk", 2 },
+                    { "5896206703266", "Messenjah", "Kansas City Jazz", 3 },
+                    { "7133519519687", "Mannequin Depressives", "Fresh Rock", 1 },
+                    { "4780510000783", "Leslie Spit Treeo", "Modern Emo", 2 },
+                    { "7014103904428", "Mannequin Depressives", "Blues", 4 },
+                    { "2749623677477", "Stevie Wonder", "Easy Listening", 2 },
+                    { "8806243048739", "Linda Ronstadt", "House", 2 },
+                    { "6932181783802", "Genesis", "Jazz", 1 },
+                    { "3612902799837", "Little Caesar and the Consuls", "Modern Emo", 2 },
+                    { "6807196588219", "Luke & The Apostles", "Avant-Garde Rock", 3 },
+                    { "1203805809105", "Main Source", "Free Pop", 2 },
+                    { "7475093035732", "The Beatles", "Easy Listening", 4 },
+                    { "9578652873851", "Mythos", "Emo", 1 },
+                    { "1350212740045", "Mudmen", "Dance", 4 },
+                    { "7182425609585", "The Lowest of the Low", "Children's", 2 },
+                    { "0284442272461", "U2", "Doo-Wop", 4 },
+                    { "1219293290359", "Johnny Hallyday", "Funk", 2 },
+                    { "5520876405048", "Fleetwood Mac", "Emo", 3 },
+                    { "5913566249432", "Love Kills", "Brazillian Rock", 0 },
+                    { "3488722057247", "Lost & Profound", "Dance", 2 },
+                    { "3571173474695", "Mercy, the Sexton", "Blues", 2 },
+                    { "0620507702897", "Moxy", "Fresh Jazz", 0 },
+                    { "5269633749111", "LMDS", "Rock", 2 },
+                    { "1816067794540", "Kate and Anna McGarrigle", "Fresh Children's", 0 },
+                    { "9913561898740", "Bruce Springsteen", "Rock", 1 },
+                    { "8474015632741", "Michael Jackson", "Hard Screamo", 0 },
+                    { "8655392928667", "Mudmen", "Hard Screamo", 1 },
+                    { "3530139081652", "Prince", "Avant-Garde Pop", 2 },
+                    { "9638784541390", "Luciano Pavarotti", "R&B", 0 },
+                    { "8396137627064", "Lola Dutronic", "Jazz", 2 },
+                    { "4194683005204", "Olivia Newton-John", "Kansas City Rock", 4 },
+                    { "9493768525667", "Elvis Presley", "Pop", 4 },
+                    { "1117821773884", "Rihanna", "Free Grunge", 0 },
+                    { "9069253637777", "Luther Wright and the Wrongs", "Brazillian Funk", 4 }
                 });
 
             migrationBuilder.InsertData(
@@ -1110,48 +1110,48 @@ namespace DataAccess.Migrations
                 columns: new[] { "IsbnId", "Author", "BookName", "Count" },
                 values: new object[,]
                 {
-                    { "8624894095567", "The Doors", "Dance", 3 },
-                    { "7911490260411", "Maharahj", "Glam Easy Listening", 3 },
-                    { "8511886251373", "Loverboy", "Dance", 2 },
-                    { "9468246728590", "Magneta Lane", "Pop", 1 },
-                    { "8911728488825", "Live on Arrival", "Classic R&B", 0 },
-                    { "7193263767095", "Julio Iglesias", "Pop", 1 },
-                    { "1275002480578", "Van Halen", "Rock", 3 },
-                    { "0038422671592", "Ladyhawk", "Acid Folk", 1 },
-                    { "0136354245554", "Bruce Springsteen", "Fresh Dance", 1 },
-                    { "6017692127932", "My Darkest Days", "Jazz", 3 },
-                    { "6372664893402", "Madrid", "Classical", 0 },
-                    { "5571681776214", "Barry Manilow", "Brazillian Jazz", 1 },
-                    { "5585238410789", "Leslie Spit Treeo", "Folk", 1 },
-                    { "0166758327880", "Mean Red Spiders", "Acid Funk", 0 },
-                    { "8960141290394", "The Latency", "Dance", 1 },
-                    { "0308031438887", "The Mynah Birds", "Electronic Jazz", 1 },
-                    { "3914557839122", "The Latency", "Kansas City Easy Listening", 0 },
-                    { "4572119476680", "Mr. Pine", "African Doo-Wop", 2 },
-                    { "2628961366926", "Moneyshot", "Asian Screamo", 2 },
-                    { "7362391641019", "The Midway State", "Kansas City Blues", 2 },
-                    { "3852352423417", "Low Level Flight", "Rock", 2 },
-                    { "5611949897489", "ABBA", "Modern Jazz", 2 },
-                    { "8266499255126", "Memoryhouse", "Modern R&B", 2 },
-                    { "2984457052102", "Love Kills", "Jazz", 1 },
-                    { "8489918600488", "Lightning Dust", "Caribbean Easy Listening", 3 },
-                    { "8867623864284", "Lava Hay", "Hard Grunge", 0 },
-                    { "1453281006625", "Merlin", "Modern House", 3 },
-                    { "6006565769273", "The Mountains and the Trees", "Blues", 2 },
-                    { "9714392918444", "Luke & The Apostles", "Jazz", 3 },
-                    { "8279986163902", "Lioness", "Caribbean Pop", 2 },
-                    { "5646893737097", "Loverboy", "Modern Pop", 3 },
-                    { "2796374690308", "Mystery", "Blues", 3 },
-                    { "4440220354406", "Mythos", "Electronic Doo-Wop", 3 },
-                    { "6982699533520", "R.E.M.", "Avant-Garde Pop", 1 },
-                    { "4157287229149", "Lava Hay", "Jazzy Children's", 3 },
-                    { "8424411395266", "Britney Spears", "Folk", 2 },
-                    { "4841890773253", "Lee Harvey Osmond", "Brazillian Dance", 3 },
-                    { "8886693418103", "Cher", "Jazz", 0 },
-                    { "1030149894769", "McKenna Mendelson Mainline", "Acid Screamo", 2 },
-                    { "4541685771949", "Gloria Estefan", "Free Dance", 3 },
-                    { "7114236617792", "The Look People", "Kansas City Emo", 0 },
-                    { "4637463849314", "Low Level Flight", "Jazzy Pop", 3 }
+                    { "4007784630740", "Live on Arrival", "Hard Emo", 4 },
+                    { "5926947412052", "McMaster & James", "Kansas City Screamo", 0 },
+                    { "4725863248941", "Dire Straits", "Electronic Rock", 0 },
+                    { "7367677063048", "Mercy, the Sexton", "Jazz", 0 },
+                    { "5023316905485", "Johnny Hallyday", "Modern Grunge", 4 },
+                    { "3104193930736", "Janet Jackson", "Folk", 2 },
+                    { "9975861363475", "Fleetwood Mac", "Screamo", 0 },
+                    { "2942699454203", "Moist", "Classic Jazz", 0 },
+                    { "8129024179002", "Last Man Out", "Free Jazz", 1 },
+                    { "9056265326573", "Guns N' Roses", "Classical", 1 },
+                    { "9423564158272", "Mes Aïeux", "Easy Listening", 3 },
+                    { "5091629959964", "Malhavoc", "Asian House", 0 },
+                    { "7608949393663", "Low Level Flight", "Caribbean Classical", 1 },
+                    { "1008984683877", "Lost Dakotas", "Blues", 4 },
+                    { "2729788872399", "The Mark Inside", "Glam R&B", 4 },
+                    { "8621471040667", "Backstreet Boys", "Jazz", 4 },
+                    { "8160801064615", "Fleetwood Mac", "Caribbean House", 2 },
+                    { "7405754128575", "AC/DC", "Fresh Rock", 4 },
+                    { "2290840969692", "New Kids on the Block", "Funk", 2 },
+                    { "6927174963849", "MSTRKRFT", "Easy Listening", 3 },
+                    { "0373787284574", "Whitney Houston", "Kansas City Easy Listening", 3 },
+                    { "3813265410309", "The Mark Inside", "Avant-Garde Jazz", 2 },
+                    { "3739884937832", "MacLean & MacLean", "Jazz", 0 },
+                    { "4826557474234", "Julio Iglesias", "Glam Doo-Wop", 2 },
+                    { "6734170217000", "Local Rabbits", "R&B", 1 },
+                    { "1030931917287", "My Darkest Days", "Jazz", 1 },
+                    { "8335887600924", "Garth Brooks", "Jazz", 1 },
+                    { "8746704898252", "The McDades", "Fresh Easy Listening", 4 },
+                    { "0976699696040", "Luciano Pavarotti", "Screamo", 0 },
+                    { "2930065793448", "Billy Joel", "African Doo-Wop", 2 },
+                    { "3107978822628", "Land of Talk", "Glam Screamo", 0 },
+                    { "2057383856121", "Monster Voodoo Machine", "Modern R&B", 3 },
+                    { "3675997403856", "Elvis Presley", "Jazzy Emo", 4 },
+                    { "5790607636615", "Lee Harvey Osmond", "Rock", 0 },
+                    { "3778140276208", "Backstreet Boys", "Acid Doo-Wop", 0 },
+                    { "5191330165409", "Mahogany Rush", "Children's", 1 },
+                    { "1104314165859", "The Mohawk Lodge", "Electronic Blues", 2 },
+                    { "3730087762768", "Manic Drive", "Fresh Folk", 1 },
+                    { "5668867885344", "Van Halen", "Rock", 0 },
+                    { "2747325953775", "Neil Diamond", "Doo-Wop", 1 },
+                    { "4643466992867", "Monster Voodoo Machine", "Fresh Jazz", 0 },
+                    { "5052388263889", "Machete Avenue", "Classic Classical", 1 }
                 });
 
             migrationBuilder.InsertData(
@@ -1159,48 +1159,48 @@ namespace DataAccess.Migrations
                 columns: new[] { "IsbnId", "Author", "BookName", "Count" },
                 values: new object[,]
                 {
-                    { "7603298650652", "Miriodor", "Rock", 2 },
-                    { "2933514939399", "Mean Red Spiders", "Free House", 1 },
-                    { "0037562980050", "Machete Avenue", "Avant-Garde Screamo", 0 },
-                    { "1943694288128", "Luke & The Apostles", "African Easy Listening", 0 },
-                    { "6996307138746", "Motion Ensemble", "Rock", 1 },
-                    { "8884430349658", "Mashmakhan", "Emo", 0 },
-                    { "5317442508468", "Garth Brooks", "Grunge", 2 },
-                    { "8084258352231", "Memphis", "Blues", 0 },
-                    { "6761850617114", "Whitney Houston", "Free Emo", 3 },
-                    { "8960014674488", "Marianas Trench", "Asian R&B", 3 },
-                    { "2305675796769", "Memphis", "Doo-Wop", 0 },
-                    { "9015543158888", "Santana", "Rock", 0 },
-                    { "6194326266454", "Metallica", "Rock", 1 },
-                    { "3770115271157", "Lola Dutronic", "R&B", 0 },
-                    { "9051229620060", "Lace", "Modern Doo-Wop", 2 },
-                    { "7679266031499", "My Darkest Days", "Emo", 0 },
-                    { "9651571266256", "Mythos", "Avant-Garde R&B", 1 },
-                    { "5232321184640", "Liferuiner", "Caribbean Blues", 1 },
-                    { "7787158063594", "Mood Ruff", "Free Doo-Wop", 2 },
-                    { "0438249633900", "Mariah Carey", "Brazillian Screamo", 3 },
-                    { "6026411374106", "The Doors", "Free Jazz", 0 },
-                    { "0980441392897", "Neil Diamond", "Electronic Rock", 2 },
-                    { "5093807365907", "Monster Voodoo Machine", "Jazzy Jazz", 1 },
-                    { "6555271006005", "Elton John", "Avant-Garde Grunge", 0 },
-                    { "0753318183725", "The Mohawk Lodge", "Emo", 3 },
-                    { "0725835086599", "MCJ & Cool G", "African Funk", 1 },
-                    { "5529906484559", "The MRQ", "Kansas City Screamo", 0 },
-                    { "7092865378179", "Matthew Good Band", "Acid Children's", 1 },
-                    { "5712306033608", "Billy Joel", "Grunge", 1 },
-                    { "5932138226887", "Pink Floyd", "Blues", 0 },
-                    { "6168045964950", "Prince", "Classic Grunge", 3 },
-                    { "9148681382505", "Paul McCartney", "Free Folk", 0 },
-                    { "9809983240545", "Rihanna", "Easy Listening", 3 },
-                    { "1415313243733", "U2", "Classic Rock", 0 },
-                    { "2610184643991", "Metallica", "Doo-Wop", 2 },
-                    { "0609412017662", "Tina Turner", "Dance", 2 },
-                    { "4823872463213", "MonkeyJunk", "Free Screamo", 2 },
-                    { "5874965338111", "Matthew Good Band", "Rock", 3 },
-                    { "4415533114415", "Eminem", "Blues", 3 },
-                    { "8092898307633", "ABBA", "Blues", 2 },
-                    { "0385111691039", "The Musical Box", "Doo-Wop", 3 },
-                    { "3104088182785", "MonkeyJunk", "Modern Jazz", 0 }
+                    { "0195384392529", "Neil Diamond", "Children's", 0 },
+                    { "2719787455478", "New Kids on the Block", "Acid R&B", 0 },
+                    { "8121940354125", "Paul McCartney", "Kansas City Blues", 0 },
+                    { "7269744873489", "Mercy, the Sexton", "African Dance", 1 },
+                    { "9873366383125", "Metric", "Emo", 0 },
+                    { "2639660574271", "Bee Gees", "Fresh Screamo", 4 },
+                    { "6053173860873", "Phil Collins", "Screamo", 2 },
+                    { "2872876126234", "Madonna", "Kansas City Blues", 0 },
+                    { "4800209361920", "Lioness", "Jazz", 2 },
+                    { "0185641557943", "Machete Avenue", "Jazzy Screamo", 3 },
+                    { "6873831247120", "Rod Stewart", "Jazzy Jazz", 3 },
+                    { "2840991852277", "Limblifter", "R&B", 3 },
+                    { "7309390599427", "Live on Arrival", "Rock", 4 },
+                    { "3378942959691", "Lotus Child", "Electronic Jazz", 3 },
+                    { "6615949951280", "Lime", "Caribbean Blues", 3 },
+                    { "2810706037019", "Kiss", "African Easy Listening", 0 },
+                    { "3219308838381", "Motion Ensemble", "Blues", 0 },
+                    { "9240647824339", "Mercy, the Sexton", "Free Screamo", 4 },
+                    { "7687699832548", "Max Webster", "Pop", 3 },
+                    { "7752163747986", "Martyr", "Funk", 2 },
+                    { "9574877664289", "Memoryhouse", "Electronic Rock", 4 },
+                    { "4234365233189", "Local Rabbits", "Rock", 1 },
+                    { "4859209401910", "Len", "Pop", 4 },
+                    { "5738394730828", "Ladyhawk", "Blues", 3 },
+                    { "5688093288015", "Cher", "Classic Classical", 2 },
+                    { "0856784925044", "Mare", "Jazz", 2 },
+                    { "6191230462585", "The Matadors", "Jazz", 3 },
+                    { "8343497298956", "The Who", "Jazz", 3 },
+                    { "2266472400373", "Loco Locass", "Acid Emo", 4 },
+                    { "1210502271284", "Billy Joel", "Children's", 4 },
+                    { "8175807403351", "Dire Straits", "Rock", 4 },
+                    { "4340886241683", "Mecca Normal", "Rock", 1 },
+                    { "6712277290667", "Janet Jackson", "Brazillian Rock", 3 },
+                    { "8501509849086", "Whitney Houston", "Classical", 1 },
+                    { "2057577009268", "Matthew Good Band", "Jazz", 2 },
+                    { "4884453120978", "Moneen", "African R&B", 3 },
+                    { "1869139708072", "Love Kills", "Free Classical", 1 },
+                    { "0762584799168", "The Lincolns", "Jazz", 2 },
+                    { "9936907065204", "Mythos", "Acid Rock", 3 },
+                    { "0484285377921", "Mystery", "Free Easy Listening", 4 },
+                    { "0475329547356", "Leigh Ashford", "Jazz", 0 },
+                    { "0820148936656", "Moev", "African Blues", 4 }
                 });
 
             migrationBuilder.InsertData(
@@ -1208,38 +1208,38 @@ namespace DataAccess.Migrations
                 columns: new[] { "IsbnId", "Author", "BookName", "Count" },
                 values: new object[,]
                 {
-                    { "5393879108567", "Lime", "Modern Rock", 2 },
-                    { "1609105846406", "Love Inc.", "Modern Grunge", 3 },
-                    { "5432972861328", "LiveonRelease", "Free Jazz", 3 },
-                    { "3461574668372", "Mudmen", "Grunge", 3 },
-                    { "1537888735921", "Genesis", "Modern Dance", 2 },
-                    { "9510496246130", "Men Without Hats", "Pop", 2 },
-                    { "0377104431791", "My Darkest Days", "Brazillian Classical", 0 },
-                    { "2947387039936", "Olivia Newton-John", "Avant-Garde Funk", 3 },
-                    { "3764917024597", "Ladyhawk", "Classical", 3 },
-                    { "7261119608143", "Len", "Free Grunge", 2 },
-                    { "4513514984905", "Mes Aïeux", "Screamo", 2 },
-                    { "5959941715144", "Library Voices", "Glam Easy Listening", 3 },
-                    { "5862418576436", "Mountain City Four", "Emo", 0 },
-                    { "4972406334861", "Pink Floyd", "Jazz", 3 },
-                    { "8333214619056", "The Mark Inside", "Kansas City Funk", 0 },
-                    { "2769878675958", "L'Étranger", "Blues", 3 },
-                    { "0213054249761", "The Look People", "Asian Rock", 3 },
-                    { "7703965973671", "Neil Diamond", "Classic Children's", 2 },
-                    { "7815464639168", "Mannequin Depressives", "Hard Doo-Wop", 2 },
-                    { "7626922870768", "Monster Voodoo Machine", "Jazzy Rock", 3 },
-                    { "2674407776739", "Left Spine Down", "Modern Folk", 1 },
-                    { "6923385877249", "B'z", "Rock", 0 },
-                    { "3075069507216", "Rod Stewart", "Rock", 0 },
-                    { "7795354743626", "LiveonRelease", "Jazz", 1 },
-                    { "2825369684465", "Main Source", "Hard Classical", 0 },
-                    { "3490537366659", "AC/DC", "Emo", 2 },
-                    { "4632277637293", "Mercey Brothers", "Rock", 0 },
-                    { "5629952957514", "Mare", "African Funk", 0 },
-                    { "0358203163384", "The McRackins", "Funk", 3 },
-                    { "8111189228505", "George Michael", "Folk", 2 },
-                    { "9999625714697", "Love Kills", "Funk", 2 },
-                    { "8794796870773", "ABBA", "Folk", 1 }
+                    { "8759333086442", "Mudmen", "Fresh Jazz", 1 },
+                    { "7700146403190", "Queen", "Kansas City R&B", 1 },
+                    { "3215634202133", "Moev", "Grunge", 3 },
+                    { "7094442033863", "Lioness", "Electronic Easy Listening", 1 },
+                    { "7730296241470", "My Darkest Days", "Jazzy Blues", 2 },
+                    { "1364185559268", "Mountain City Four", "Classic Grunge", 1 },
+                    { "5706185769827", "Men Without Hats", "Rock", 1 },
+                    { "3161328433686", "Mir", "Acid Screamo", 0 },
+                    { "5578648448558", "Land of Talk", "Funk", 0 },
+                    { "1842159183173", "Prince", "Rock", 3 },
+                    { "9133183403013", "The Matadors", "Hard Pop", 4 },
+                    { "4157806996193", "Moxy Früvous", "Emo", 0 },
+                    { "4059691325049", "Neil Diamond", "Fresh Jazz", 2 },
+                    { "7809074712618", "Ladyhawk", "Free Jazz", 1 },
+                    { "5122996226820", "Mes Aïeux", "Jazz", 0 },
+                    { "5188994134848", "Moxy", "Caribbean Rock", 4 },
+                    { "9479784782851", "Luther Wright and the Wrongs", "Rock", 4 },
+                    { "2492347563511", "Memphis", "Dance", 0 },
+                    { "7154762793748", "Merryweather", "Grunge", 2 },
+                    { "1024761064434", "Marianas Trench", "Jazzy Emo", 0 },
+                    { "1326410848320", "The McRackins", "Dance", 4 },
+                    { "1688850250600", "Mare", "Hard Jazz", 4 },
+                    { "3634814320885", "Matthew Good Band", "African Emo", 1 },
+                    { "0396384482540", "Metallica", "Hard Children's", 2 },
+                    { "3208129335638", "Whitney Houston", "Blues", 1 },
+                    { "9745261298445", "The Memories Attack", "Blues", 2 },
+                    { "6266642687081", "Dire Straits", "Emo", 1 },
+                    { "9610439215656", "Marianas Trench", "Glam Dance", 2 },
+                    { "5542480523610", "Lili Fatale", "Rock", 2 },
+                    { "1326429312019", "Martyr", "Rock", 1 },
+                    { "9505037315593", "The McDades", "Funk", 4 },
+                    { "3573010204144", "Marilyn's Vitamins", "Jazz", 2 }
                 });
 
             migrationBuilder.UpdateData(
@@ -1247,280 +1247,280 @@ namespace DataAccess.Migrations
                 keyColumn: "MemberId",
                 keyValue: 1,
                 columns: new[] { "BirthDate", "EmailAddress", "FirstName", "HomeAddress", "LastName", "Password", "PhoneNumber", "RegistrationDate", "Username" },
-                values: new object[] { new DateTime(2002, 3, 7, 2, 28, 23, 0, DateTimeKind.Unspecified), "kelseyreed@libra.ry", "Kelsey", "1355 97th Street ", "Reed", "marfa", "(590) 240-4700", new DateTime(2019, 4, 12, 20, 25, 30, 127, DateTimeKind.Local).AddTicks(6348), "kelseyreed" });
+                values: new object[] { new DateTime(1984, 4, 13, 13, 37, 44, 0, DateTimeKind.Unspecified), "trinityprice@libra.ry", "Trinity", "1337 Avenue U  ", "Price", "irony", "(388) 712-9502", new DateTime(2019, 8, 8, 0, 54, 44, 343, DateTimeKind.Local).AddTicks(7250), "trinityprice" });
 
             migrationBuilder.UpdateData(
                 table: "Members",
                 keyColumn: "MemberId",
                 keyValue: 2,
                 columns: new[] { "BirthDate", "EmailAddress", "FirstName", "HomeAddress", "LastName", "Password", "PhoneNumber", "RegistrationDate", "Username" },
-                values: new object[] { new DateTime(2009, 3, 12, 12, 40, 55, 0, DateTimeKind.Unspecified), "jessicayoung@libra.ry", "Jessica", "5795 Indiana Place ", "Young", "butcher", "(713) 620-6378", new DateTime(2018, 7, 30, 20, 25, 30, 127, DateTimeKind.Local).AddTicks(8300), "jessicayoung" });
+                values: new object[] { new DateTime(1951, 7, 19, 14, 18, 22, 0, DateTimeKind.Unspecified), "brittanybrooks@libra.ry", "Brittany", "3055 Ford Street ", "Brooks", "mixtape", "(660) 630-2934", new DateTime(2019, 9, 14, 0, 54, 44, 343, DateTimeKind.Local).AddTicks(9165), "brittanybrooks" });
 
             migrationBuilder.UpdateData(
                 table: "Members",
                 keyColumn: "MemberId",
                 keyValue: 3,
-                columns: new[] { "BirthDate", "EmailAddress", "FirstName", "HomeAddress", "LastName", "Password", "PhoneNumber", "RegistrationDate", "Username" },
-                values: new object[] { new DateTime(1923, 6, 2, 4, 17, 37, 0, DateTimeKind.Unspecified), "jordancollins@libra.ry", "Jordan", "6517 51st Street ", "Collins", "high", "(434) 439-3061", new DateTime(2018, 12, 26, 20, 25, 30, 127, DateTimeKind.Local).AddTicks(8873), "jordancollins" });
+                columns: new[] { "BirthDate", "EmailAddress", "FirstName", "HomeAddress", "LastName", "PhoneNumber", "RegistrationDate", "Username" },
+                values: new object[] { new DateTime(1990, 4, 3, 18, 15, 53, 0, DateTimeKind.Unspecified), "samuelbrown@libra.ry", "Samuel", "2604 Joralemon Street ", "Brown", "(251) 234-5403", new DateTime(2020, 4, 26, 0, 54, 44, 343, DateTimeKind.Local).AddTicks(9702), "samuelbrown" });
 
             migrationBuilder.UpdateData(
                 table: "Members",
                 keyColumn: "MemberId",
                 keyValue: 4,
                 columns: new[] { "BirthDate", "EmailAddress", "FirstName", "HomeAddress", "LastName", "Password", "PhoneNumber", "RegistrationDate", "Username" },
-                values: new object[] { new DateTime(1964, 12, 8, 6, 27, 19, 0, DateTimeKind.Unspecified), "courtneyrussell@libra.ry", "Courtney", "3091 Hamilton Manor  ", "Russell", "american", "(757) 504-2503", new DateTime(2019, 5, 4, 20, 25, 30, 127, DateTimeKind.Local).AddTicks(9426), "courtneyrussell" });
+                values: new object[] { new DateTime(1929, 1, 20, 11, 52, 43, 0, DateTimeKind.Unspecified), "jakelopez@libra.ry", "Jake", "3043 Morgan Avenue ", "Lopez", "fixie", "(515) 696-7658", new DateTime(2018, 9, 7, 0, 54, 44, 344, DateTimeKind.Local).AddTicks(180), "jakelopez" });
 
             migrationBuilder.UpdateData(
                 table: "Members",
                 keyColumn: "MemberId",
                 keyValue: 5,
                 columns: new[] { "BirthDate", "EmailAddress", "FirstName", "HomeAddress", "LastName", "Password", "PhoneNumber", "RegistrationDate", "Username" },
-                values: new object[] { new DateTime(1937, 2, 9, 12, 56, 22, 0, DateTimeKind.Unspecified), "jackcooper@libra.ry", "Jack", "2713 Prince Street ", "Cooper", "fap", "(312) 273-1038", new DateTime(2019, 1, 31, 20, 25, 30, 127, DateTimeKind.Local).AddTicks(9889), "jackcooper" });
+                values: new object[] { new DateTime(2018, 4, 6, 18, 46, 50, 0, DateTimeKind.Unspecified), "catherinedavis@libra.ry", "Catherine", "8068 Irving Avenue ", "Davis", "art", "(565) 674-9047", new DateTime(2020, 10, 29, 0, 54, 44, 344, DateTimeKind.Local).AddTicks(668), "catherinedavis" });
 
             migrationBuilder.UpdateData(
                 table: "Members",
                 keyColumn: "MemberId",
                 keyValue: 6,
                 columns: new[] { "BirthDate", "EmailAddress", "FirstName", "HomeAddress", "LastName", "Password", "PhoneNumber", "RegistrationDate", "Username" },
-                values: new object[] { new DateTime(1910, 6, 20, 21, 3, 22, 0, DateTimeKind.Unspecified), "rachelflores@libra.ry", "Rachel", "1547 Bokee Court ", "Flores", "cred", "(613) 683-6210", new DateTime(2019, 12, 14, 20, 25, 30, 128, DateTimeKind.Local).AddTicks(382), "rachelflores" });
+                values: new object[] { new DateTime(1937, 2, 13, 8, 8, 35, 0, DateTimeKind.Unspecified), "ıandaeninck@libra.ry", "Ian", "1212 71st Street ", "Daeninck", "carles", "(498) 794-8820", new DateTime(2019, 8, 7, 0, 54, 44, 344, DateTimeKind.Local).AddTicks(1115), "ıandaeninck" });
 
             migrationBuilder.UpdateData(
                 table: "Members",
                 keyColumn: "MemberId",
                 keyValue: 7,
                 columns: new[] { "BirthDate", "EmailAddress", "FirstName", "HomeAddress", "LastName", "Password", "PhoneNumber", "RegistrationDate", "Username" },
-                values: new object[] { new DateTime(1923, 11, 20, 18, 26, 29, 0, DateTimeKind.Unspecified), "gabriellacox@libra.ry", "Gabriella", "1552 92nd Street ", "Cox", "future", "(311) 355-1905", new DateTime(2019, 2, 24, 20, 25, 30, 128, DateTimeKind.Local).AddTicks(855), "gabriellacox" });
+                values: new object[] { new DateTime(1936, 6, 20, 22, 51, 36, 0, DateTimeKind.Unspecified), "jillianmain@libra.ry", "Jillian", "210 Varanda Place ", "Main", "cosby", "(539) 320-4113", new DateTime(2019, 9, 5, 0, 54, 44, 344, DateTimeKind.Local).AddTicks(1634), "jillianmain" });
 
             migrationBuilder.UpdateData(
                 table: "Members",
                 keyColumn: "MemberId",
                 keyValue: 8,
                 columns: new[] { "BirthDate", "EmailAddress", "FirstName", "HomeAddress", "LastName", "Password", "PhoneNumber", "RegistrationDate", "Username" },
-                values: new object[] { new DateTime(1929, 10, 15, 18, 33, 47, 0, DateTimeKind.Unspecified), "ericmitchell@libra.ry", "Eric", "5087 Lott Place ", "Mitchell", "street", "(710) 678-9374", new DateTime(2020, 5, 29, 20, 25, 30, 128, DateTimeKind.Local).AddTicks(1336), "ericmitchell" });
+                values: new object[] { new DateTime(1934, 11, 21, 18, 57, 46, 0, DateTimeKind.Unspecified), "paigerichardson@libra.ry", "Paige", "3279 Hendrickson Street ", "Richardson", "life", "(529) 693-4826", new DateTime(2019, 9, 4, 0, 54, 44, 344, DateTimeKind.Local).AddTicks(2132), "paigerichardson" });
 
             migrationBuilder.UpdateData(
                 table: "Members",
                 keyColumn: "MemberId",
                 keyValue: 9,
                 columns: new[] { "BirthDate", "EmailAddress", "FirstName", "HomeAddress", "LastName", "Password", "PhoneNumber", "RegistrationDate", "Username" },
-                values: new object[] { new DateTime(1947, 11, 27, 11, 29, 50, 0, DateTimeKind.Unspecified), "savannahbailey@libra.ry", "Savannah", "1576 Marshall Street ", "Bailey", "brunch", "(655) 506-1182", new DateTime(2020, 12, 13, 20, 25, 30, 128, DateTimeKind.Local).AddTicks(1839), "savannahbailey" });
+                values: new object[] { new DateTime(1965, 7, 6, 0, 28, 8, 0, DateTimeKind.Unspecified), "ryanbryant@libra.ry", "Ryan", "5235 Taaffe Place ", "Bryant", "life", "(621) 518-3366", new DateTime(2020, 5, 15, 0, 54, 44, 344, DateTimeKind.Local).AddTicks(2598), "ryanbryant" });
 
             migrationBuilder.UpdateData(
                 table: "Members",
                 keyColumn: "MemberId",
                 keyValue: 10,
                 columns: new[] { "BirthDate", "EmailAddress", "FirstName", "HomeAddress", "LastName", "Password", "PhoneNumber", "RegistrationDate", "Username" },
-                values: new object[] { new DateTime(1940, 2, 27, 8, 20, 42, 0, DateTimeKind.Unspecified), "connorbrown@libra.ry", "Connor", "5508 Marconi Place ", "Brown", "post-ironic", "(490) 531-6192", new DateTime(2019, 3, 2, 20, 25, 30, 128, DateTimeKind.Local).AddTicks(2318), "connorbrown" });
+                values: new object[] { new DateTime(2010, 8, 3, 8, 25, 14, 0, DateTimeKind.Unspecified), "mariayarobi@libra.ry", "Maria", "9495 Seigel Court ", "Yarobi", "government", "(217) 325-2831", new DateTime(2019, 2, 13, 0, 54, 44, 344, DateTimeKind.Local).AddTicks(3045), "mariayarobi" });
 
             migrationBuilder.UpdateData(
                 table: "Members",
                 keyColumn: "MemberId",
                 keyValue: 11,
                 columns: new[] { "BirthDate", "EmailAddress", "FirstName", "HomeAddress", "LastName", "Password", "PhoneNumber", "RegistrationDate", "Username" },
-                values: new object[] { new DateTime(1956, 6, 19, 15, 33, 47, 0, DateTimeKind.Unspecified), "alexandrapearson@libra.ry", "Alexandra", "3662 Hazel Court ", "Pearson", "mumblecore", "(309) 311-0159", new DateTime(2020, 11, 2, 20, 25, 30, 128, DateTimeKind.Local).AddTicks(2809), "alexandrapearson" });
+                values: new object[] { new DateTime(1952, 6, 18, 9, 39, 45, 0, DateTimeKind.Unspecified), "victoriarogers@libra.ry", "Victoria", "9380 Lafayette Avenue ", "Rogers", "Dreamcatcher", "(495) 339-0653", new DateTime(2019, 12, 18, 0, 54, 44, 344, DateTimeKind.Local).AddTicks(3507), "victoriarogers" });
 
             migrationBuilder.UpdateData(
                 table: "Members",
                 keyColumn: "MemberId",
                 keyValue: 12,
                 columns: new[] { "BirthDate", "EmailAddress", "FirstName", "HomeAddress", "LastName", "Password", "PhoneNumber", "RegistrationDate", "Username" },
-                values: new object[] { new DateTime(1978, 12, 4, 17, 19, 3, 0, DateTimeKind.Unspecified), "spencermartinez@libra.ry", "Spencer", "2311 Bay 25th Street ", "Martinez", "beer", "(723) 419-6925", new DateTime(2020, 3, 5, 20, 25, 30, 128, DateTimeKind.Local).AddTicks(3284), "spencermartinez" });
+                values: new object[] { new DateTime(1901, 12, 6, 14, 1, 58, 0, DateTimeKind.Unspecified), "seanlee@libra.ry", "Sean", "1621 Beekman Place ", "Lee", "Polaroid", "(497) 618-0708", new DateTime(2019, 5, 2, 0, 54, 44, 344, DateTimeKind.Local).AddTicks(3999), "seanlee" });
 
             migrationBuilder.UpdateData(
                 table: "Members",
                 keyColumn: "MemberId",
                 keyValue: 13,
-                columns: new[] { "BirthDate", "EmailAddress", "FirstName", "HomeAddress", "LastName", "PhoneNumber", "RegistrationDate", "Username" },
-                values: new object[] { new DateTime(1929, 1, 1, 5, 14, 21, 0, DateTimeKind.Unspecified), "lilyverstraete@libra.ry", "Lily", "2438 Driggs Avenue ", "Verstraete", "(737) 655-0765", new DateTime(2019, 4, 6, 20, 25, 30, 128, DateTimeKind.Local).AddTicks(3775), "lilyverstraete" });
+                columns: new[] { "BirthDate", "EmailAddress", "FirstName", "HomeAddress", "LastName", "Password", "PhoneNumber", "RegistrationDate", "Username" },
+                values: new object[] { new DateTime(2002, 1, 10, 23, 16, 39, 0, DateTimeKind.Unspecified), "colepearson@libra.ry", "Cole", "619 Winthrop Street ", "Pearson", "child", "(271) 494-2679", new DateTime(2020, 10, 5, 0, 54, 44, 344, DateTimeKind.Local).AddTicks(4470), "colepearson" });
 
             migrationBuilder.UpdateData(
                 table: "Members",
                 keyColumn: "MemberId",
                 keyValue: 14,
                 columns: new[] { "BirthDate", "EmailAddress", "FirstName", "HomeAddress", "LastName", "Password", "PhoneNumber", "RegistrationDate", "Username" },
-                values: new object[] { new DateTime(1923, 12, 21, 4, 1, 52, 0, DateTimeKind.Unspecified), "rachelhughes@libra.ry", "Rachel", "903 Oakland Place ", "Hughes", "biodiesel", "(516) 625-9089", new DateTime(2018, 5, 10, 20, 25, 30, 128, DateTimeKind.Local).AddTicks(4263), "rachelhughes" });
+                values: new object[] { new DateTime(1977, 4, 12, 21, 37, 46, 0, DateTimeKind.Unspecified), "antoniojohnson@libra.ry", "Antonio", "5397 Ten Eyck Street ", "Johnson", "VHS", "(639) 606-9128", new DateTime(2020, 8, 28, 0, 54, 44, 344, DateTimeKind.Local).AddTicks(4912), "antoniojohnson" });
 
             migrationBuilder.UpdateData(
                 table: "Members",
                 keyColumn: "MemberId",
                 keyValue: 15,
                 columns: new[] { "BirthDate", "EmailAddress", "FirstName", "HomeAddress", "LastName", "Password", "PhoneNumber", "RegistrationDate", "Username" },
-                values: new object[] { new DateTime(1929, 2, 19, 4, 0, 43, 0, DateTimeKind.Unspecified), "stephentorres@libra.ry", "Stephen", "2907 Parade Place ", "Torres", "pour-over", "(705) 522-0426", new DateTime(2019, 2, 7, 20, 25, 30, 128, DateTimeKind.Local).AddTicks(4737), "stephentorres" });
+                values: new object[] { new DateTime(1908, 9, 20, 22, 34, 15, 0, DateTimeKind.Unspecified), "christophercarter@libra.ry", "Christopher", "2573 Martense Street ", "Carter", "vice", "(599) 515-9455", new DateTime(2020, 7, 29, 0, 54, 44, 344, DateTimeKind.Local).AddTicks(5376), "christophercarter" });
 
             migrationBuilder.UpdateData(
                 table: "Members",
                 keyColumn: "MemberId",
                 keyValue: 16,
                 columns: new[] { "BirthDate", "EmailAddress", "FirstName", "HomeAddress", "LastName", "Password", "PhoneNumber", "RegistrationDate", "Username" },
-                values: new object[] { new DateTime(1945, 6, 6, 9, 35, 50, 0, DateTimeKind.Unspecified), "rachelmitchell@libra.ry", "Rachel", "3749 Brighton 2nd Street ", "Mitchell", "cleanse", "(392) 734-5089", new DateTime(2019, 10, 5, 20, 25, 30, 128, DateTimeKind.Local).AddTicks(5225), "rachelmitchell" });
+                values: new object[] { new DateTime(1929, 1, 7, 16, 9, 56, 0, DateTimeKind.Unspecified), "libertyalexander@libra.ry", "Liberty", "5217 Kenilworth Place ", "Alexander", "helvetica", "(329) 515-9812", new DateTime(2019, 11, 7, 0, 54, 44, 344, DateTimeKind.Local).AddTicks(5901), "libertyalexander" });
 
             migrationBuilder.UpdateData(
                 table: "Members",
                 keyColumn: "MemberId",
                 keyValue: 17,
                 columns: new[] { "BirthDate", "EmailAddress", "FirstName", "HomeAddress", "LastName", "Password", "PhoneNumber", "RegistrationDate", "Username" },
-                values: new object[] { new DateTime(1955, 1, 14, 2, 6, 34, 0, DateTimeKind.Unspecified), "codyramirez@libra.ry", "Cody", "1191 Union Avenue ", "Ramirez", "rights", "(292) 523-5803", new DateTime(2019, 7, 29, 20, 25, 30, 128, DateTimeKind.Local).AddTicks(5673), "codyramirez" });
+                values: new object[] { new DateTime(2020, 10, 8, 0, 57, 19, 0, DateTimeKind.Unspecified), "milissaadams@libra.ry", "Milissa", "7813 Perry Terrace ", "Adams", "williamsburg", "(312) 479-0611", new DateTime(2020, 11, 15, 0, 54, 44, 344, DateTimeKind.Local).AddTicks(6376), "milissaadams" });
 
             migrationBuilder.UpdateData(
                 table: "Members",
                 keyColumn: "MemberId",
                 keyValue: 18,
                 columns: new[] { "BirthDate", "EmailAddress", "FirstName", "HomeAddress", "LastName", "Password", "PhoneNumber", "RegistrationDate", "Username" },
-                values: new object[] { new DateTime(1903, 8, 2, 5, 57, 28, 0, DateTimeKind.Unspecified), "daltonhill@libra.ry", "Dalton", "5813 School Lane ", "Hill", "post-ironic", "(342) 363-3395", new DateTime(2019, 3, 17, 20, 25, 30, 128, DateTimeKind.Local).AddTicks(6173), "daltonhill" });
+                values: new object[] { new DateTime(1984, 9, 24, 20, 38, 48, 0, DateTimeKind.Unspecified), "angelinamartinez@libra.ry", "Angelina", "4298 48th Street ", "Martinez", "marfa", "(763) 451-9853", new DateTime(2019, 6, 7, 0, 54, 44, 344, DateTimeKind.Local).AddTicks(6821), "angelinamartinez" });
 
             migrationBuilder.UpdateData(
                 table: "Members",
                 keyColumn: "MemberId",
                 keyValue: 19,
                 columns: new[] { "BirthDate", "EmailAddress", "FirstName", "HomeAddress", "LastName", "Password", "PhoneNumber", "RegistrationDate", "Username" },
-                values: new object[] { new DateTime(1956, 12, 5, 20, 16, 8, 0, DateTimeKind.Unspecified), "jasongomes@libra.ry", "Jason", "312 Elton Street ", "Gomes", "beer", "(261) 786-4677", new DateTime(2020, 4, 7, 20, 25, 30, 128, DateTimeKind.Local).AddTicks(6635), "jasongomes" });
+                values: new object[] { new DateTime(1971, 10, 16, 2, 33, 54, 0, DateTimeKind.Unspecified), "jadahernandez@libra.ry", "Jada", "4414 Clove Road ", "Hernandez", "Vinyl", "(693) 284-9188", new DateTime(2020, 3, 4, 0, 54, 44, 344, DateTimeKind.Local).AddTicks(7305), "jadahernandez" });
 
             migrationBuilder.UpdateData(
                 table: "Members",
                 keyColumn: "MemberId",
                 keyValue: 20,
                 columns: new[] { "BirthDate", "EmailAddress", "FirstName", "HomeAddress", "LastName", "Password", "PhoneNumber", "RegistrationDate", "Username" },
-                values: new object[] { new DateTime(1905, 10, 5, 12, 2, 0, 0, DateTimeKind.Unspecified), "tristanmcvicar@libra.ry", "Tristan", "3524 Albee Square ", "Mc Vicar", "occupy", "(236) 671-6464", new DateTime(2018, 5, 17, 20, 25, 30, 129, DateTimeKind.Local).AddTicks(6197), "tristanmcvicar" });
+                values: new object[] { new DateTime(1932, 8, 30, 3, 24, 16, 0, DateTimeKind.Unspecified), "abigailjones@libra.ry", "Abigail", "2932 Underhill Avenue ", "Jones", "of", "(490) 628-3090", new DateTime(2018, 9, 1, 0, 54, 44, 344, DateTimeKind.Local).AddTicks(7770), "abigailjones" });
 
             migrationBuilder.UpdateData(
                 table: "BookTransactions",
                 keyColumn: "TransactionId",
                 keyValue: 21,
                 columns: new[] { "EndDate", "IsbnId", "StartDate" },
-                values: new object[] { new DateTime(1997, 3, 18, 10, 1, 35, 0, DateTimeKind.Unspecified), "0725545535804", new DateTime(1975, 7, 10, 5, 27, 20, 0, DateTimeKind.Unspecified) });
+                values: new object[] { new DateTime(2018, 8, 9, 3, 50, 5, 0, DateTimeKind.Unspecified), "4781011772554", new DateTime(2015, 9, 13, 12, 8, 58, 0, DateTimeKind.Unspecified) });
 
             migrationBuilder.UpdateData(
                 table: "BookTransactions",
                 keyColumn: "TransactionId",
                 keyValue: 22,
                 columns: new[] { "EndDate", "IsbnId", "StartDate" },
-                values: new object[] { new DateTime(1937, 1, 24, 19, 41, 18, 0, DateTimeKind.Unspecified), "2933514939399", new DateTime(1957, 5, 8, 7, 25, 26, 0, DateTimeKind.Unspecified) });
+                values: new object[] { new DateTime(1927, 4, 1, 6, 37, 47, 0, DateTimeKind.Unspecified), "2719787455478", new DateTime(1910, 8, 15, 17, 23, 26, 0, DateTimeKind.Unspecified) });
 
             migrationBuilder.UpdateData(
                 table: "BookTransactions",
                 keyColumn: "TransactionId",
                 keyValue: 23,
                 columns: new[] { "EndDate", "IsbnId", "StartDate" },
-                values: new object[] { new DateTime(1995, 11, 22, 17, 31, 15, 0, DateTimeKind.Unspecified), "0037562980050", new DateTime(2011, 12, 3, 4, 52, 23, 0, DateTimeKind.Unspecified) });
+                values: new object[] { new DateTime(1971, 4, 25, 1, 4, 35, 0, DateTimeKind.Unspecified), "8121940354125", new DateTime(1999, 9, 13, 19, 3, 22, 0, DateTimeKind.Unspecified) });
 
             migrationBuilder.UpdateData(
                 table: "BookTransactions",
                 keyColumn: "TransactionId",
                 keyValue: 24,
                 columns: new[] { "EndDate", "IsbnId", "StartDate" },
-                values: new object[] { new DateTime(2009, 2, 3, 11, 49, 38, 0, DateTimeKind.Unspecified), "1943694288128", new DateTime(1915, 7, 16, 20, 32, 44, 0, DateTimeKind.Unspecified) });
+                values: new object[] { new DateTime(1997, 9, 18, 14, 23, 5, 0, DateTimeKind.Unspecified), "7269744873489", new DateTime(1960, 5, 13, 14, 37, 13, 0, DateTimeKind.Unspecified) });
 
             migrationBuilder.UpdateData(
                 table: "BookTransactions",
                 keyColumn: "TransactionId",
                 keyValue: 25,
                 columns: new[] { "EndDate", "IsbnId", "StartDate" },
-                values: new object[] { new DateTime(1945, 10, 12, 20, 7, 22, 0, DateTimeKind.Unspecified), "6996307138746", new DateTime(1959, 10, 5, 4, 55, 40, 0, DateTimeKind.Unspecified) });
+                values: new object[] { new DateTime(1992, 10, 15, 2, 8, 58, 0, DateTimeKind.Unspecified), "9873366383125", new DateTime(1916, 9, 9, 10, 36, 33, 0, DateTimeKind.Unspecified) });
 
             migrationBuilder.UpdateData(
                 table: "BookTransactions",
                 keyColumn: "TransactionId",
                 keyValue: 26,
                 columns: new[] { "EndDate", "IsbnId", "StartDate" },
-                values: new object[] { new DateTime(2000, 7, 5, 6, 49, 18, 0, DateTimeKind.Unspecified), "8884430349658", new DateTime(1962, 8, 26, 20, 33, 56, 0, DateTimeKind.Unspecified) });
+                values: new object[] { new DateTime(1978, 9, 30, 11, 40, 30, 0, DateTimeKind.Unspecified), "2639660574271", new DateTime(1988, 4, 30, 7, 30, 9, 0, DateTimeKind.Unspecified) });
 
             migrationBuilder.UpdateData(
                 table: "BookTransactions",
                 keyColumn: "TransactionId",
                 keyValue: 27,
                 columns: new[] { "EndDate", "IsbnId", "StartDate" },
-                values: new object[] { new DateTime(1938, 6, 22, 6, 24, 5, 0, DateTimeKind.Unspecified), "5317442508468", new DateTime(1983, 12, 19, 1, 36, 22, 0, DateTimeKind.Unspecified) });
+                values: new object[] { new DateTime(1978, 1, 24, 1, 48, 20, 0, DateTimeKind.Unspecified), "6053173860873", new DateTime(2018, 12, 1, 17, 31, 7, 0, DateTimeKind.Unspecified) });
 
             migrationBuilder.UpdateData(
                 table: "BookTransactions",
                 keyColumn: "TransactionId",
                 keyValue: 28,
                 columns: new[] { "EndDate", "IsbnId", "StartDate" },
-                values: new object[] { new DateTime(2005, 2, 6, 12, 40, 12, 0, DateTimeKind.Unspecified), "8084258352231", new DateTime(1978, 3, 16, 10, 34, 41, 0, DateTimeKind.Unspecified) });
+                values: new object[] { new DateTime(2006, 8, 26, 23, 39, 30, 0, DateTimeKind.Unspecified), "2872876126234", new DateTime(1999, 11, 24, 16, 19, 20, 0, DateTimeKind.Unspecified) });
 
             migrationBuilder.UpdateData(
                 table: "BookTransactions",
                 keyColumn: "TransactionId",
                 keyValue: 29,
                 columns: new[] { "EndDate", "IsbnId", "StartDate" },
-                values: new object[] { new DateTime(2014, 9, 25, 8, 16, 17, 0, DateTimeKind.Unspecified), "6761850617114", new DateTime(1918, 3, 25, 19, 59, 38, 0, DateTimeKind.Unspecified) });
+                values: new object[] { new DateTime(1916, 2, 24, 12, 1, 54, 0, DateTimeKind.Unspecified), "4800209361920", new DateTime(1905, 2, 26, 19, 10, 2, 0, DateTimeKind.Unspecified) });
 
             migrationBuilder.UpdateData(
                 table: "BookTransactions",
                 keyColumn: "TransactionId",
                 keyValue: 30,
                 columns: new[] { "EndDate", "IsbnId", "StartDate" },
-                values: new object[] { new DateTime(1998, 4, 16, 14, 53, 35, 0, DateTimeKind.Unspecified), "8960014674488", new DateTime(1988, 8, 15, 0, 26, 52, 0, DateTimeKind.Unspecified) });
+                values: new object[] { new DateTime(1962, 2, 5, 19, 19, 30, 0, DateTimeKind.Unspecified), "0185641557943", new DateTime(1977, 3, 31, 21, 53, 19, 0, DateTimeKind.Unspecified) });
 
             migrationBuilder.UpdateData(
                 table: "BookTransactions",
                 keyColumn: "TransactionId",
                 keyValue: 31,
                 columns: new[] { "EndDate", "IsbnId", "StartDate" },
-                values: new object[] { new DateTime(1914, 11, 19, 23, 26, 54, 0, DateTimeKind.Unspecified), "2305675796769", new DateTime(1951, 11, 25, 15, 26, 5, 0, DateTimeKind.Unspecified) });
+                values: new object[] { new DateTime(1927, 12, 8, 0, 50, 41, 0, DateTimeKind.Unspecified), "6873831247120", new DateTime(1987, 12, 12, 22, 48, 37, 0, DateTimeKind.Unspecified) });
 
             migrationBuilder.UpdateData(
                 table: "BookTransactions",
                 keyColumn: "TransactionId",
                 keyValue: 32,
                 columns: new[] { "EndDate", "IsbnId", "StartDate" },
-                values: new object[] { new DateTime(1978, 2, 15, 7, 31, 17, 0, DateTimeKind.Unspecified), "6194326266454", new DateTime(1919, 1, 28, 7, 46, 52, 0, DateTimeKind.Unspecified) });
+                values: new object[] { new DateTime(1956, 11, 25, 9, 7, 56, 0, DateTimeKind.Unspecified), "7309390599427", new DateTime(2000, 1, 1, 6, 55, 40, 0, DateTimeKind.Unspecified) });
 
             migrationBuilder.UpdateData(
                 table: "BookTransactions",
                 keyColumn: "TransactionId",
                 keyValue: 33,
                 columns: new[] { "EndDate", "IsbnId", "StartDate" },
-                values: new object[] { new DateTime(1982, 7, 18, 12, 22, 48, 0, DateTimeKind.Unspecified), "6555271006005", new DateTime(1965, 12, 1, 18, 40, 34, 0, DateTimeKind.Unspecified) });
+                values: new object[] { new DateTime(1926, 12, 22, 17, 11, 54, 0, DateTimeKind.Unspecified), "5738394730828", new DateTime(1983, 10, 5, 2, 2, 3, 0, DateTimeKind.Unspecified) });
 
             migrationBuilder.UpdateData(
                 table: "BookTransactions",
                 keyColumn: "TransactionId",
                 keyValue: 34,
                 columns: new[] { "EndDate", "IsbnId", "StartDate" },
-                values: new object[] { new DateTime(1914, 9, 27, 18, 24, 30, 0, DateTimeKind.Unspecified), "3770115271157", new DateTime(1907, 1, 7, 21, 15, 18, 0, DateTimeKind.Unspecified) });
+                values: new object[] { new DateTime(2007, 11, 22, 15, 26, 15, 0, DateTimeKind.Unspecified), "3378942959691", new DateTime(1902, 11, 17, 10, 55, 40, 0, DateTimeKind.Unspecified) });
 
             migrationBuilder.UpdateData(
                 table: "BookTransactions",
                 keyColumn: "TransactionId",
                 keyValue: 35,
                 columns: new[] { "EndDate", "IsbnId", "StartDate" },
-                values: new object[] { new DateTime(1987, 8, 25, 9, 45, 52, 0, DateTimeKind.Unspecified), "9051229620060", new DateTime(1948, 1, 19, 12, 27, 10, 0, DateTimeKind.Unspecified) });
+                values: new object[] { new DateTime(1921, 6, 21, 8, 35, 11, 0, DateTimeKind.Unspecified), "6615949951280", new DateTime(2003, 7, 30, 11, 50, 27, 0, DateTimeKind.Unspecified) });
 
             migrationBuilder.UpdateData(
                 table: "BookTransactions",
                 keyColumn: "TransactionId",
                 keyValue: 36,
                 columns: new[] { "EndDate", "IsbnId", "StartDate" },
-                values: new object[] { new DateTime(1921, 2, 4, 11, 36, 48, 0, DateTimeKind.Unspecified), "7679266031499", new DateTime(2020, 1, 6, 0, 56, 51, 0, DateTimeKind.Unspecified) });
+                values: new object[] { new DateTime(1954, 8, 3, 3, 26, 43, 0, DateTimeKind.Unspecified), "2810706037019", new DateTime(1909, 8, 25, 3, 35, 48, 0, DateTimeKind.Unspecified) });
 
             migrationBuilder.UpdateData(
                 table: "BookTransactions",
                 keyColumn: "TransactionId",
                 keyValue: 37,
                 columns: new[] { "EndDate", "IsbnId", "StartDate" },
-                values: new object[] { new DateTime(1970, 2, 20, 7, 5, 11, 0, DateTimeKind.Unspecified), "9651571266256", new DateTime(1940, 7, 9, 6, 20, 35, 0, DateTimeKind.Unspecified) });
+                values: new object[] { new DateTime(1900, 4, 11, 16, 48, 4, 0, DateTimeKind.Unspecified), "3219308838381", new DateTime(2010, 7, 4, 14, 28, 52, 0, DateTimeKind.Unspecified) });
 
             migrationBuilder.UpdateData(
                 table: "BookTransactions",
                 keyColumn: "TransactionId",
                 keyValue: 38,
                 columns: new[] { "EndDate", "IsbnId", "StartDate" },
-                values: new object[] { new DateTime(1992, 1, 27, 11, 24, 3, 0, DateTimeKind.Unspecified), "5232321184640", new DateTime(2009, 12, 6, 13, 21, 32, 0, DateTimeKind.Unspecified) });
+                values: new object[] { new DateTime(2016, 5, 7, 5, 25, 14, 0, DateTimeKind.Unspecified), "9240647824339", new DateTime(1957, 8, 4, 7, 20, 33, 0, DateTimeKind.Unspecified) });
 
             migrationBuilder.UpdateData(
                 table: "BookTransactions",
                 keyColumn: "TransactionId",
                 keyValue: 39,
                 columns: new[] { "EndDate", "IsbnId", "StartDate" },
-                values: new object[] { new DateTime(1949, 8, 4, 20, 59, 13, 0, DateTimeKind.Unspecified), "7787158063594", new DateTime(1947, 8, 11, 18, 11, 0, 0, DateTimeKind.Unspecified) });
+                values: new object[] { new DateTime(1943, 12, 11, 18, 42, 10, 0, DateTimeKind.Unspecified), "7687699832548", new DateTime(2012, 6, 16, 23, 4, 20, 0, DateTimeKind.Unspecified) });
 
             migrationBuilder.UpdateData(
                 table: "BookTransactions",
                 keyColumn: "TransactionId",
                 keyValue: 40,
                 columns: new[] { "EndDate", "IsbnId", "StartDate" },
-                values: new object[] { new DateTime(1915, 5, 3, 8, 52, 0, 0, DateTimeKind.Unspecified), "0438249633900", new DateTime(1988, 11, 3, 20, 28, 48, 0, DateTimeKind.Unspecified) });
+                values: new object[] { new DateTime(1979, 12, 6, 16, 39, 0, 0, DateTimeKind.Unspecified), "7752163747986", new DateTime(1909, 11, 28, 14, 46, 5, 0, DateTimeKind.Unspecified) });
         }
 
         protected override void Down(MigrationBuilder migrationBuilder)
@@ -1528,1050 +1528,1050 @@ namespace DataAccess.Migrations
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "0037562980050");
+                keyValue: "0076314725317");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "0038422671592");
+                keyValue: "0184969907727");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "0136354245554");
+                keyValue: "0185641557943");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "0166758327880");
+                keyValue: "0195384392529");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "0200615710287");
+                keyValue: "0284442272461");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "0213054249761");
+                keyValue: "0373787284574");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "0308031438887");
+                keyValue: "0396384482540");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "0336034148709");
+                keyValue: "0401757650068");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "0351137436078");
+                keyValue: "0475329547356");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "0358203163384");
+                keyValue: "0484285377921");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "0377104431791");
+                keyValue: "0490050574875");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "0385111691039");
+                keyValue: "0620507702897");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "0438249633900");
+                keyValue: "0712362327663");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "0442245915804");
+                keyValue: "0762584799168");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "0444924673548");
+                keyValue: "0820148936656");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "0558763236576");
+                keyValue: "0856784925044");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "0609412017662");
+                keyValue: "0976699696040");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "0725545535804");
+                keyValue: "1008984683877");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "0725835086599");
+                keyValue: "1024761064434");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "0753318183725");
+                keyValue: "1030931917287");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "0757780752973");
+                keyValue: "1104314165859");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "0796899588837");
+                keyValue: "1117821773884");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "0870494602193");
+                keyValue: "1203805809105");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "0954191374262");
+                keyValue: "1210502271284");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "0980441392897");
+                keyValue: "1219293290359");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "0995231063984");
+                keyValue: "1326410848320");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "1030149894769");
+                keyValue: "1326429312019");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "1275002480578");
+                keyValue: "1350212740045");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "1276514262745");
+                keyValue: "1364185559268");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "1309828823060");
+                keyValue: "1574911947019");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "1415313243733");
+                keyValue: "1578968333412");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "1426587791587");
+                keyValue: "1604448383811");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "1427385929186");
+                keyValue: "1624102149248");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "1453281006625");
+                keyValue: "1688850250600");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "1537888735921");
+                keyValue: "1816067794540");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "1565152061195");
+                keyValue: "1842159183173");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "1589206302418");
+                keyValue: "1869139708072");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "1609105846406");
+                keyValue: "1969037659804");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "1688392775136");
+                keyValue: "2057383856121");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "1802653704300");
+                keyValue: "2057577009268");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "1921717825362");
+                keyValue: "2266232862536");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "1943694288128");
+                keyValue: "2266472400373");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "2085183045573");
+                keyValue: "2290840969692");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "2161688037979");
+                keyValue: "2329599149505");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "2207257133912");
+                keyValue: "2492347563511");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "2248835142323");
+                keyValue: "2639660574271");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "2256230460303");
+                keyValue: "2693450365469");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "2293574215782");
+                keyValue: "2719787455478");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "2305675796769");
+                keyValue: "2729788872399");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "2315657165931");
+                keyValue: "2747325953775");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "2336587518276");
+                keyValue: "2749623677477");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "2435323063146");
+                keyValue: "2781968260096");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "2477855734624");
+                keyValue: "2810706037019");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "2533653007753");
+                keyValue: "2840991852277");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "2581278082718");
+                keyValue: "2872876126234");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "2610184643991");
+                keyValue: "2930065793448");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "2628961366926");
+                keyValue: "2942699454203");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "2644216084095");
+                keyValue: "3023696754919");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "2655501742196");
+                keyValue: "3026118754882");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "2666020193468");
+                keyValue: "3104193930736");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "2674407776739");
+                keyValue: "3107978822628");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "2676140970456");
+                keyValue: "3135291974206");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "2679472798756");
+                keyValue: "3161328433686");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "2769878675958");
+                keyValue: "3208129335638");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "2796374690308");
+                keyValue: "3215634202133");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "2825369684465");
+                keyValue: "3219308838381");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "2933514939399");
+                keyValue: "3320846842940");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "2939785929442");
+                keyValue: "3372639975293");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "2947387039936");
+                keyValue: "3378942959691");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "2972855150918");
+                keyValue: "3383616243030");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "2984457052102");
+                keyValue: "3488722057247");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "2992433070788");
+                keyValue: "3530139081652");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "3075069507216");
+                keyValue: "3571173474695");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "3077326835680");
+                keyValue: "3573010204144");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "3104088182785");
+                keyValue: "3592163795129");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "3164384730015");
+                keyValue: "3593970947043");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "3164987622496");
+                keyValue: "3612902799837");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "3180778881558");
+                keyValue: "3634814320885");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "3244345322661");
+                keyValue: "3675997403856");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "3371688533088");
+                keyValue: "3695810619492");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "3461574668372");
+                keyValue: "3730087762768");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "3490537366659");
+                keyValue: "3739884937832");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "3599482494009");
+                keyValue: "3778140276208");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "3764917024597");
+                keyValue: "3813265410309");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "3770115271157");
+                keyValue: "4007784630740");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "3852352423417");
+                keyValue: "4041937101117");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "3914557839122");
+                keyValue: "4059691325049");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "3923183477774");
+                keyValue: "4139835873092");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "4011494769364");
+                keyValue: "4157806996193");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "4043900950795");
+                keyValue: "4194683005204");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "4049478632980");
+                keyValue: "4234365233189");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "4157287229149");
+                keyValue: "4325783135583");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "4159169168430");
+                keyValue: "4340886241683");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "4174739224134");
+                keyValue: "4431032025379");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "4302202036220");
+                keyValue: "4553462393093");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "4415533114415");
+                keyValue: "4560939501920");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "4440220354406");
+                keyValue: "4578095488232");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "4470402926473");
+                keyValue: "4643466992867");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "4513514984905");
+                keyValue: "4725863248941");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "4541685771949");
+                keyValue: "4780510000783");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "4572119476680");
+                keyValue: "4781011772554");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "4632277637293");
+                keyValue: "4800209361920");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "4637463849314");
+                keyValue: "4826557474234");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "4651164133086");
+                keyValue: "4859209401910");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "4823872463213");
+                keyValue: "4884453120978");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "4841890773253");
+                keyValue: "5023316905485");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "4972406334861");
+                keyValue: "5052388263889");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "5093807365907");
+                keyValue: "5091629959964");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "5160418899766");
+                keyValue: "5122996226820");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "5221462963219");
+                keyValue: "5188994134848");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "5232321184640");
+                keyValue: "5191330165409");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "5317442508468");
+                keyValue: "5253963757227");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "5393879108567");
+                keyValue: "5269633749111");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "5432972861328");
+                keyValue: "5520876405048");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "5522001698557");
+                keyValue: "5531710684821");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "5529906484559");
+                keyValue: "5542480523610");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "5566767220221");
+                keyValue: "5578648448558");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "5571681776214");
+                keyValue: "5668867885344");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "5585238410789");
+                keyValue: "5688093288015");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "5611949897489");
+                keyValue: "5706185769827");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "5612802562220");
+                keyValue: "5738394730828");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "5629952957514");
+                keyValue: "5789672947721");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "5646893737097");
+                keyValue: "5790607636615");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "5712306033608");
+                keyValue: "5888943154293");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "5862418576436");
+                keyValue: "5896206703266");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "5874965338111");
+                keyValue: "5913566249432");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "5932138226887");
+                keyValue: "5926947412052");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "5959941715144");
+                keyValue: "6012789373160");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "5968647421690");
+                keyValue: "6053173860873");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "6006565769273");
+                keyValue: "6191230462585");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "6017692127932");
+                keyValue: "6245114672529");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "6026411374106");
+                keyValue: "6266642687081");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "6168045964950");
+                keyValue: "6388592010989");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "6176824908208");
+                keyValue: "6615949951280");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "6194326266454");
+                keyValue: "6712277290667");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "6246234888316");
+                keyValue: "6734170217000");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "6372664893402");
+                keyValue: "6807196588219");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "6555271006005");
+                keyValue: "6873831247120");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "6680246324330");
+                keyValue: "6927174963849");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "6761850617114");
+                keyValue: "6932181783802");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "6846178429488");
+                keyValue: "7014103904428");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "6923385877249");
+                keyValue: "7094442033863");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "6982699533520");
+                keyValue: "7133519519687");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "6996307138746");
+                keyValue: "7154762793748");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "7092865378179");
+                keyValue: "7182425609585");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "7114236617792");
+                keyValue: "7269744873489");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "7193263767095");
+                keyValue: "7309390599427");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "7211926682196");
+                keyValue: "7367677063048");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "7261119608143");
+                keyValue: "7405754128575");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "7327518863593");
+                keyValue: "7471506717505");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "7362391641019");
+                keyValue: "7475093035732");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "7603298650652");
+                keyValue: "7608949393663");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "7626922870768");
+                keyValue: "7687699832548");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "7679266031499");
+                keyValue: "7700146403190");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "7703965973671");
+                keyValue: "7730296241470");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "7761264532525");
+                keyValue: "7752163747986");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "7787158063594");
+                keyValue: "7768708548616");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "7795354743626");
+                keyValue: "7809074712618");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "7815464639168");
+                keyValue: "7897617202181");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "7876871770107");
+                keyValue: "8008122402404");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "7898774542091");
+                keyValue: "8121940354125");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "7911490260411");
+                keyValue: "8129024179002");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "7921970869664");
+                keyValue: "8160801064615");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "8068594505941");
+                keyValue: "8175807403351");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "8084258352231");
+                keyValue: "8200161343634");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "8092898307633");
+                keyValue: "8282467571996");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "8111189228505");
+                keyValue: "8335887600924");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "8244445119747");
+                keyValue: "8343497298956");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "8266499255126");
+                keyValue: "8381376435130");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "8269446514442");
+                keyValue: "8396137627064");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "8279986163902");
+                keyValue: "8474015632741");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "8333214619056");
+                keyValue: "8501509849086");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "8397622112115");
+                keyValue: "8621471040667");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "8424411395266");
+                keyValue: "8655392928667");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "8469298492804");
+                keyValue: "8746704898252");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "8489918600488");
+                keyValue: "8759333086442");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "8511886251373");
+                keyValue: "8806243048739");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "8563915447642");
+                keyValue: "9038524173842");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "8624894095567");
+                keyValue: "9056265326573");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "8794796870773");
+                keyValue: "9069253637777");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "8867623864284");
+                keyValue: "9133183403013");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "8884430349658");
+                keyValue: "9240647824339");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "8886693418103");
+                keyValue: "9365317116043");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "8911728488825");
+                keyValue: "9413765962000");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "8960014674488");
+                keyValue: "9423564158272");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "8960141290394");
+                keyValue: "9479784782851");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "9015543158888");
+                keyValue: "9493768525667");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "9051229620060");
+                keyValue: "9505037315593");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "9148681382505");
+                keyValue: "9574877664289");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "9292065190615");
+                keyValue: "9578652873851");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "9387229753422");
+                keyValue: "9610439215656");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "9468246728590");
+                keyValue: "9638784541390");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "9510496246130");
+                keyValue: "9745261298445");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "9651571266256");
+                keyValue: "9814957866928");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "9711957228094");
+                keyValue: "9851449403869");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "9714392918444");
+                keyValue: "9873366383125");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "9759159170568");
+                keyValue: "9880648431693");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "9764887193145");
+                keyValue: "9913561898740");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "9809983240545");
+                keyValue: "9936907065204");
 
             migrationBuilder.DeleteData(
                 table: "Books",
                 keyColumn: "IsbnId",
-                keyValue: "9999625714697");
+                keyValue: "9975861363475");
 
             migrationBuilder.InsertData(
                 table: "Books",
                 columns: new[] { "IsbnId", "Author", "BookName", "Count" },
                 values: new object[,]
                 {
-                    { "0611160809575", "Masochistic Religion", "Asian Doo-Wop", 1 },
-                    { "1387670595902", "Gloria Estefan", "Blues", 1 },
-                    { "3321041750646", "DJ Jazzy Jeff and the Fresh Prince", "Brazillian Rock", 1 },
-                    { "9939440481310", "Lighthouse", "Acid Blues", 1 },
-                    { "6997737146919", "Merlin", "R&B", 1 },
-                    { "5306302724345", "Me Mom & Morgentaler", "Fresh Jazz", 1 },
-                    { "8642429531863", "Messenjah", "Blues", 1 },
-                    { "8419646953527", "The Lovely Feathers", "Jazz", 1 },
-                    { "0674595230406", "Fleetwood Mac", "Acid Rock", 1 },
-                    { "0796402022542", "Gloria Estefan", "Classical", 1 },
-                    { "7116768342156", "Maow", "Jazz", 1 },
-                    { "7250698733664", "L'Étranger", "Free Classical", 1 },
-                    { "9251568016083", "Mes Aïeux", "Jazzy Rock", 1 },
-                    { "0614337528457", "Means", "Screamo", 1 },
-                    { "5240547531943", "The Beatles", "House", 1 },
-                    { "5023664780386", "Lee Harvey Osmond", "Jazz", 1 },
-                    { "3310709684152", "Love Inc.", "Dance", 1 },
-                    { "2310815774860", "Michael Jackson", "Acid Grunge", 1 },
-                    { "2921191209226", "The Manvils", "Emo", 1 },
-                    { "6472699907930", "New Kids on the Block", "Asian Screamo", 1 },
-                    { "2700599263078", "The Midway State", "R&B", 1 },
-                    { "6198836740537", "Elton John", "Hard Rock", 1 },
-                    { "3867435020510", "Lace", "Funk", 1 },
-                    { "5335009546069", "Stevie Wonder", "Classical", 1 },
-                    { "0972862428215", "Lava Hay", "Asian House", 1 },
-                    { "8150713538301", "Matthew Good Band", "Jazz", 1 },
-                    { "8957867348608", "Monster Voodoo Machine", "Free Blues", 1 },
-                    { "8809684626566", "The McRackins", "Free Rock", 1 },
-                    { "4086669946425", "Me Mom & Morgentaler", "Electronic Rock", 1 },
-                    { "3682902505406", "Matthew Good Band", "Glam Children's", 1 },
-                    { "1589350070068", "R.E.M.", "Dance", 1 },
-                    { "4318345812481", "Farm Fresh", "Emo", 1 },
-                    { "6974898484262", "The Moffatts", "Hard Classical", 1 },
-                    { "6525750000499", "Leigh Ashford", "Grunge", 1 },
-                    { "3470943661939", "The Latency", "Classic Classical", 1 },
-                    { "2690018014107", "Lost Dakotas", "Electronic Easy Listening", 1 },
-                    { "1531736077558", "Library Voices", "Children's", 1 },
-                    { "9996990546133", "Lighthouse", "African House", 1 },
-                    { "4363861322824", "Johnny Hallyday", "Jazz", 1 },
-                    { "0023012093008", "Memphis", "Kansas City Emo", 1 },
-                    { "3745541562611", "The Mynah Birds", "Grunge", 1 },
-                    { "7950659441261", "Linda Ronstadt", "House", 1 }
+                    { "3357215325839", "Memoryhouse", "Caribbean Pop", 2 },
+                    { "9896391791304", "Lee Harvey Osmond", "Emo", 1 },
+                    { "0000444553341", "Manteca", "Avant-Garde Rock", 4 },
+                    { "8442473888546", "Marianas Trench", "Asian House", 4 },
+                    { "5956550817920", "Messenjah", "Classic Rock", 3 },
+                    { "8893328626061", "Messenjah", "Glam Doo-Wop", 2 },
+                    { "8343531677823", "Michael Jackson", "Avant-Garde Pop", 0 },
+                    { "5566261904533", "Means", "Emo", 0 },
+                    { "7948842251659", "Aerosmith", "Dance", 2 },
+                    { "5505551027719", "Prince", "Grunge", 3 },
+                    { "5504917731025", "Mobile", "Emo", 4 },
+                    { "7592815220764", "MacLean & MacLean", "Rock", 0 },
+                    { "8023133971415", "Matt Mays & El Torpedo", "Rock", 4 },
+                    { "5094881032984", "DJ Jazzy Jeff and the Fresh Prince", "Funk", 1 },
+                    { "9515927822116", "Santana", "Modern Emo", 1 },
+                    { "8549701537035", "Neil Diamond", "Kansas City Doo-Wop", 4 },
+                    { "7972119417071", "Barbra Streisand", "Brazillian Rock", 4 },
+                    { "2090266708970", "Local Rabbits", "Blues", 3 },
+                    { "1200196557874", "Main Source", "Free Blues", 4 },
+                    { "1651627308927", "Dire Straits", "Jazz", 0 },
+                    { "0404037522077", "Main Source", "Free Pop", 2 },
+                    { "8439740947562", "Stevie Wonder", "Children's", 2 },
+                    { "1802763132568", "The Lovely Feathers", "Caribbean Pop", 0 },
+                    { "5966404289730", "Lola Dutronic", "Grunge", 2 },
+                    { "0442080291296", "The Memories Attack", "Classic Easy Listening", 3 },
+                    { "1137143772323", "Love Kills", "Blues", 0 },
+                    { "5167836124857", "R.E.M.", "Free Emo", 0 },
+                    { "6190323431552", "The McDades", "Doo-Wop", 0 },
+                    { "3554496002302", "Eagles", "Brazillian Classical", 4 },
+                    { "5024825206553", "Lotus Child", "Emo", 3 },
+                    { "0519060239347", "Live on Arrival", "Blues", 2 },
+                    { "0525931145093", "Mean Red Spiders", "Grunge", 2 },
+                    { "8652781739441", "LMDS", "Classic Folk", 4 },
+                    { "0222493740167", "Love and Sas", "Avant-Garde Rock", 0 },
+                    { "2863157437898", "Means", "Rock", 4 },
+                    { "9591526185511", "Lee Harvey Osmond", "Brazillian Classical", 0 },
+                    { "9218094430923", "Eminem", "Acid Grunge", 3 },
+                    { "4032652513734", "Len", "Glam Jazz", 0 },
+                    { "6812441187163", "The Lowest of the Low", "Modern Jazz", 0 },
+                    { "9964374513881", "Led Zeppelin", "Emo", 1 },
+                    { "4317364941704", "Machete Avenue", "Emo", 3 },
+                    { "9288346216779", "Celine Dion", "African Classical", 0 }
                 });
 
             migrationBuilder.InsertData(
@@ -2579,48 +2579,48 @@ namespace DataAccess.Migrations
                 columns: new[] { "IsbnId", "Author", "BookName", "Count" },
                 values: new object[,]
                 {
-                    { "0373373714166", "Michael Jackson", "Jazz", 1 },
-                    { "4212240390987", "Matthew Good Band", "Blues", 1 },
-                    { "9731313025699", "Mandala", "Brazillian Children's", 1 },
-                    { "7230269334689", "Mir", "Modern Funk", 1 },
-                    { "8455028777209", "The Memories Attack", "Brazillian House", 1 },
-                    { "3162372697317", "The Memories Attack", "Brazillian House", 1 },
-                    { "5003117930950", "Lightning Dust", "Caribbean Jazz", 1 },
-                    { "4622346349289", "Library Voices", "Jazz", 1 },
-                    { "1746512711494", "Metric", "Modern Pop", 1 },
-                    { "2491950502329", "Malhavoc", "Rock", 1 },
-                    { "3952100962639", "Mudmen", "Jazz", 1 },
-                    { "5534691338389", "Madrid", "Rock", 1 },
-                    { "4931026453225", "Gloria Estefan", "Emo", 1 },
-                    { "3315099223084", "Lillix", "Funk", 1 },
-                    { "5580351992949", "Lime", "Children's", 1 },
-                    { "2579532305274", "The Lincolns", "Modern Pop", 1 },
-                    { "2513652608678", "MacLean & MacLean", "Glam Grunge", 1 },
-                    { "9578248630414", "U2", "African Jazz", 1 },
-                    { "7969344670181", "Cher", "Glam House", 1 },
-                    { "2113543169048", "Max Webster", "Jazzy R&B", 1 },
-                    { "9758589218269", "The Lemon Bucket Orkestra", "Asian Screamo", 1 },
-                    { "0293563451143", "Mariah Carey", "Rock", 1 },
-                    { "6457807253891", "Love and Sas", "Modern Grunge", 1 },
-                    { "6326401484556", "Mandala", "Rock", 1 },
-                    { "6541527938892", "Low Level Flight", "Rock", 1 },
-                    { "2892412478900", "Garth Brooks", "Asian Blues", 1 },
-                    { "2309872315364", "Metallica", "Free Jazz", 1 },
-                    { "1369818046770", "Luther Wright and the Wrongs", "Rock", 1 },
-                    { "9000166389142", "MonkeyJunk", "Jazzy Emo", 1 },
-                    { "2782782921280", "Lillix", "Jazz", 1 },
-                    { "3406641175603", "Elton John", "Modern Jazz", 1 },
-                    { "1181997823789", "Mystery Machine", "Modern Funk", 1 },
-                    { "1970086418565", "Olivia Newton-John", "Avant-Garde Folk", 1 },
-                    { "6234111032296", "Monster Voodoo Machine", "Caribbean Pop", 1 },
-                    { "2990492267184", "Lionel Richie", "Jazz", 1 },
-                    { "7935503034935", "Bruce Springsteen", "Pop", 1 },
-                    { "3568541957732", "Martyr", "Blues", 1 },
-                    { "8178424185389", "Johnny Hallyday", "African Doo-Wop", 1 },
-                    { "7765266744651", "Mariah Carey", "Blues", 1 },
-                    { "7921389261517", "Love Kills", "Jazz", 1 },
-                    { "8186715422361", "Mes Aïeux", "Children's", 1 },
-                    { "9972468250443", "Len", "Jazz", 1 }
+                    { "1639258706332", "Pink Floyd", "Jazzy Folk", 1 },
+                    { "8560411856419", "Luke & The Apostles", "Children's", 2 },
+                    { "4884573817428", "Lotus Child", "Jazz", 1 },
+                    { "9556244777205", "Mountain City Four", "Glam Children's", 4 },
+                    { "0649010978426", "Limblifter", "House", 4 },
+                    { "0293198318608", "Bon Jovi", "Jazz", 1 },
+                    { "0225403616917", "Aerosmith", "Classic Emo", 1 },
+                    { "3220493536430", "Liferuiner", "Brazillian Doo-Wop", 4 },
+                    { "0302328603509", "Barbra Streisand", "Asian Rock", 0 },
+                    { "7199375387702", "Gloria Estefan", "Acid R&B", 0 },
+                    { "5903999182933", "The Latency", "Dance", 1 },
+                    { "7300460942471", "Low Level Flight", "Jazzy Pop", 0 },
+                    { "0625430358259", "Mahogany Rush", "R&B", 3 },
+                    { "1192415674827", "Phil Collins", "House", 3 },
+                    { "7037469109676", "MonkeyJunk", "Asian Pop", 3 },
+                    { "2484428525369", "Love and Sas", "Avant-Garde Emo", 4 },
+                    { "2916660387663", "Whitney Houston", "Avant-Garde Jazz", 2 },
+                    { "1138372050579", "The Doors", "Doo-Wop", 2 },
+                    { "6379930227444", "Neil Diamond", "Pop", 0 },
+                    { "1353829531383", "Cher", "Jazz", 2 },
+                    { "4802297915008", "The Look People", "Asian Classical", 3 },
+                    { "0986745881287", "Paul McCartney", "Free Rock", 2 },
+                    { "0451728071797", "The Lowest of the Low", "Funk", 3 },
+                    { "4331517537070", "The Marble Index", "Blues", 2 },
+                    { "3440399056157", "Cher", "Asian Easy Listening", 4 },
+                    { "6378583926205", "Metalwood", "Electronic Rock", 4 },
+                    { "8886398468327", "McMaster & James", "Classic Jazz", 0 },
+                    { "9897354350934", "The Matadors", "Doo-Wop", 4 },
+                    { "6104937394154", "Elton John", "Glam Folk", 3 },
+                    { "7824313786722", "Gloria Estefan", "Hard Grunge", 1 },
+                    { "5821172442709", "Monster Voodoo Machine", "Doo-Wop", 0 },
+                    { "8846553533386", "Lola Dutronic", "R&B", 4 },
+                    { "3597290453646", "Luciano Pavarotti", "Avant-Garde Blues", 1 },
+                    { "6306912207556", "Love and Sas", "African Doo-Wop", 1 },
+                    { "5017384748736", "Elvis Presley", "Jazz", 4 },
+                    { "9226029623631", "Love Kills", "Acid Rock", 4 },
+                    { "1474870546402", "B'z", "House", 3 },
+                    { "0408982509903", "Masochistic Religion", "Classical", 3 },
+                    { "1781253319684", "Billy Joel", "Jazz", 1 },
+                    { "2315627832481", "The Doors", "Asian Doo-Wop", 0 },
+                    { "0523745856946", "Mercy, the Sexton", "Asian R&B", 3 },
+                    { "1845183088510", "The Most Serene Republic", "R&B", 4 }
                 });
 
             migrationBuilder.InsertData(
@@ -2628,48 +2628,48 @@ namespace DataAccess.Migrations
                 columns: new[] { "IsbnId", "Author", "BookName", "Count" },
                 values: new object[,]
                 {
-                    { "4984343222811", "Mudmen", "Free Classical", 1 },
-                    { "0193103389832", "The Who", "Glam House", 1 },
-                    { "8146265346826", "The Manvils", "Caribbean Jazz", 1 },
-                    { "0916284906869", "My Darkest Days", "Rock", 1 },
-                    { "6790441026833", "Moev", "Pop", 1 },
-                    { "5427069110846", "The McDades", "Rock", 1 },
-                    { "1310026655497", "MCJ & Cool G", "Grunge", 1 },
-                    { "0374517297284", "Rod Stewart", "Children's", 1 },
-                    { "6584833488979", "Malhavoc", "Kansas City Jazz", 1 },
-                    { "0829887473534", "B'z", "Emo", 1 },
-                    { "0168671924105", "The Midway State", "Acid Blues", 1 },
-                    { "3757271002199", "Prince", "R&B", 1 },
-                    { "5961519598431", "Ladyhawk", "Classic Rock", 1 },
-                    { "7021474358960", "Fleetwood Mac", "Free Grunge", 1 },
-                    { "1572971468264", "Metric", "Blues", 1 },
-                    { "6037426810177", "Masochistic Religion", "Rock", 1 },
-                    { "4249993776321", "The Memories Attack", "Funk", 1 },
-                    { "6101437808096", "Len", "Rock", 1 },
-                    { "2966855138490", "Dire Straits", "Avant-Garde Doo-Wop", 1 },
-                    { "1436988379607", "MonkeyJunk", "Rock", 1 },
-                    { "5510419929482", "Metallica", "Hard Rock", 1 },
-                    { "7544169109510", "MCJ & Cool G", "Classical", 1 },
-                    { "8651639755438", "Leslie Spit Treeo", "Avant-Garde Classical", 1 },
-                    { "1008482657252", "Miriodor", "African House", 1 },
-                    { "3805894763740", "Leslie Spit Treeo", "Blues", 1 },
-                    { "5745094209268", "Max Webster", "Electronic Classical", 1 },
-                    { "2221116372535", "Frank Sinatra", "Doo-Wop", 1 },
-                    { "6330768027667", "Lola Dutronic", "Easy Listening", 1 },
-                    { "1171422488890", "Mes Aïeux", "Acid Jazz", 1 },
-                    { "5963985717024", "George Michael", "Rock", 1 },
-                    { "4767288869858", "Little Caesar and the Consuls", "Rock", 1 },
-                    { "4885315252668", "Lighthouse", "African Rock", 1 },
-                    { "4401085461589", "Lioness", "R&B", 1 },
-                    { "1532599422495", "Lace", "Caribbean Screamo", 1 },
-                    { "6891194601030", "Letters to Elora", "Glam Children's", 1 },
-                    { "6869164468322", "My Darkest Days", "Hard Rock", 1 },
-                    { "5980028580766", "Mystery Machine", "Dance", 1 },
-                    { "1149963622231", "Men Without Hats", "Screamo", 1 },
-                    { "4462177381419", "The Latency", "Rock", 1 },
-                    { "9691580406065", "Billy Joel", "Brazillian Folk", 1 },
-                    { "5445967852957", "Mountain City Four", "Screamo", 1 },
-                    { "5912245997965", "LMDS", "Avant-Garde Jazz", 1 }
+                    { "5978725280032", "Linda Ronstadt", "Hard Jazz", 1 },
+                    { "7891957527041", "Loco Locass", "Electronic Rock", 0 },
+                    { "2702809113855", "The McRackins", "Jazz", 2 },
+                    { "5914765359353", "Aerosmith", "Caribbean Pop", 0 },
+                    { "1528371095501", "Bon Jovi", "Jazz", 2 },
+                    { "1232266985089", "Mariah Carey", "Blues", 2 },
+                    { "8510412680942", "Loco Locass", "Fresh R&B", 4 },
+                    { "0914260699643", "Maow", "Kansas City Jazz", 2 },
+                    { "3346238435326", "Van Halen", "Acid Easy Listening", 2 },
+                    { "8569318332696", "The Matadors", "Jazz", 1 },
+                    { "1721904956108", "Julio Iglesias", "Jazz", 2 },
+                    { "3986977894192", "Moxy", "Kansas City Folk", 3 },
+                    { "8527630418618", "Mes Aïeux", "Blues", 0 },
+                    { "3806795846601", "McKenna Mendelson Mainline", "Free Children's", 4 },
+                    { "9129600196170", "The Marble Index", "African Folk", 0 },
+                    { "9097016190577", "Memphis", "Acid Easy Listening", 4 },
+                    { "0309665911463", "Moxy Früvous", "Jazz", 0 },
+                    { "9394205281816", "Mr. Pine", "Kansas City Jazz", 1 },
+                    { "6773911495961", "Lighthouse", "Dance", 0 },
+                    { "9925998172154", "The Mahones", "Emo", 1 },
+                    { "1824875762553", "Manic Drive", "African Classical", 2 },
+                    { "4096027239276", "Billy Joel", "African House", 4 },
+                    { "6930906514235", "The Lincolns", "Easy Listening", 0 },
+                    { "9733366833792", "Land of Talk", "Pop", 0 },
+                    { "8259612740415", "The Manvils", "Rock", 3 },
+                    { "1770338961248", "Mecca Normal", "Acid Emo", 4 },
+                    { "6164332648537", "New Kids on the Block", "Brazillian Folk", 1 },
+                    { "0652511971561", "LMDS", "Funk", 3 },
+                    { "4453811786022", "MCJ & Cool G", "Doo-Wop", 1 },
+                    { "8106984647532", "The Most Serene Republic", "Screamo", 2 },
+                    { "1215001123620", "The Rolling Stones", "Blues", 1 },
+                    { "0524013306798", "Lionel Richie", "Grunge", 2 },
+                    { "3952821949894", "Santana", "Acid Emo", 2 },
+                    { "2877277522024", "Mir", "Asian Classical", 3 },
+                    { "4860130740721", "Malhavoc", "Screamo", 1 },
+                    { "7339009610668", "The Latency", "Screamo", 4 },
+                    { "9396808764722", "Dire Straits", "Asian Blues", 0 },
+                    { "8753534699837", "Matt Mays & El Torpedo", "Jazzy Rock", 1 },
+                    { "6342323032661", "Prince", "R&B", 3 },
+                    { "2490863838732", "Metallica", "Pop", 2 },
+                    { "4880329718845", "Neil Diamond", "Blues", 1 },
+                    { "9535230513327", "Lime", "Hard Folk", 1 }
                 });
 
             migrationBuilder.InsertData(
@@ -2677,48 +2677,48 @@ namespace DataAccess.Migrations
                 columns: new[] { "IsbnId", "Author", "BookName", "Count" },
                 values: new object[,]
                 {
-                    { "5872052906348", "Lola Dutronic", "African Emo", 1 },
-                    { "6865478461589", "Mariah Carey", "Jazz", 1 },
-                    { "0302531185230", "Tina Turner", "Kansas City Doo-Wop", 1 },
-                    { "0113771319471", "Queen", "Classical", 1 },
-                    { "2476534456564", "Loco Locass", "Brazillian House", 1 },
-                    { "2022446580281", "The MRQ", "African Blues", 1 },
-                    { "7129035680462", "Leahy", "Brazillian Blues", 1 },
-                    { "4732604102549", "Barry Manilow", "Brazillian Emo", 1 },
-                    { "4608265372476", "Whitney Houston", "Funk", 1 },
-                    { "8333925902443", "Last Man Out", "Kansas City Classical", 1 },
-                    { "0635498971091", "My Darkest Days", "Asian Rock", 1 },
-                    { "1565268516273", "AC/DC", "Hard Doo-Wop", 1 },
-                    { "0951074427841", "Library Voices", "Fresh Rock", 1 },
-                    { "1249404242079", "Whitney Houston", "Modern Doo-Wop", 1 },
-                    { "4976680262243", "The Moffatts", "Caribbean Rock", 1 },
-                    { "6868574127264", "Motion Ensemble", "Fresh Pop", 1 },
-                    { "4589325737983", "Lili Fatale", "Jazz", 1 },
-                    { "4239983504446", "Moneen", "Acid Rock", 1 },
-                    { "4066545814895", "Mountain City Four", "Funk", 1 },
-                    { "8485759647523", "Moneyshot", "Avant-Garde R&B", 1 },
-                    { "0921159335040", "Love Inc.", "Jazz", 1 },
-                    { "6440204202412", "Longing for Dawn", "Jazzy Rock", 1 },
-                    { "3774088786966", "Messenjah", "Avant-Garde Dance", 1 },
-                    { "6809583039145", "Olivia Newton-John", "Children's", 1 },
-                    { "4624476046023", "Local Rabbits", "Blues", 1 },
-                    { "1925882392677", "The Marble Index", "Classic Dance", 1 },
-                    { "9865337857489", "Tina Turner", "R&B", 1 },
-                    { "4145312359189", "Mean Red Spiders", "Fresh Rock", 1 },
-                    { "6265316611279", "Genesis", "African Jazz", 1 },
-                    { "7194645590452", "The Lovely Feathers", "Children's", 1 },
-                    { "1558432403980", "Mean Red Spiders", "Fresh Rock", 1 },
-                    { "2491841197898", "Lighthouse", "Brazillian Jazz", 1 },
-                    { "8664014795469", "The Most Serene Republic", "Easy Listening", 1 },
-                    { "4074930506838", "Lili Fatale", "Blues", 1 },
-                    { "7100805754499", "The Marble Index", "Electronic Rock", 1 },
-                    { "4941249425273", "Loco Locass", "Modern Grunge", 1 },
-                    { "2296465171172", "Frank Sinatra", "Emo", 1 },
-                    { "4736125091396", "Prince", "R&B", 1 },
-                    { "0298275287221", "Mercy, the Sexton", "Classical", 1 },
-                    { "1574147602106", "The Luyas", "African House", 1 },
-                    { "9129706697912", "The Mark Inside", "Folk", 1 },
-                    { "1900299748785", "My Darkest Days", "Jazz", 1 }
+                    { "1681718248784", "Kate and Anna McGarrigle", "Brazillian House", 1 },
+                    { "7986235128110", "Britney Spears", "Children's", 2 },
+                    { "8353494899159", "The McRackins", "Jazz", 4 },
+                    { "1629348519600", "Mercey Brothers", "Rock", 1 },
+                    { "7777339078335", "The Meligrove Band", "Emo", 1 },
+                    { "8189427658712", "Mecca Normal", "Grunge", 1 },
+                    { "6646252652661", "The Meligrove Band", "Glam Rock", 1 },
+                    { "3603409817166", "ABBA", "Blues", 0 },
+                    { "2373906637541", "Martyr", "Jazzy Folk", 0 },
+                    { "9561942698182", "Barry White", "Kansas City Blues", 4 },
+                    { "3745892818106", "Mood Ruff", "Emo", 1 },
+                    { "9603526679889", "Matthew Good Band", "Grunge", 0 },
+                    { "0033159407937", "Lava Hay", "Classic Children's", 1 },
+                    { "2944825869053", "The Most Serene Republic", "Rock", 3 },
+                    { "9577535896875", "Moist", "Classical", 1 },
+                    { "0401569264851", "Mercy, the Sexton", "Brazillian Children's", 0 },
+                    { "2730749510559", "The Midway State", "Electronic Emo", 2 },
+                    { "0594876721637", "Matt Mays & El Torpedo", "Acid Jazz", 0 },
+                    { "2102973872057", "Loco Locass", "Blues", 1 },
+                    { "1202639278624", "Lighthouse", "Hard Children's", 0 },
+                    { "8145869796816", "Johnny Hallyday", "Rock", 0 },
+                    { "6637208640474", "Cher", "Electronic Jazz", 2 },
+                    { "8622818302093", "The Marble Index", "Blues", 4 },
+                    { "4310358326396", "Garth Brooks", "Avant-Garde Folk", 2 },
+                    { "3303543295593", "Merryweather", "Rock", 1 },
+                    { "2799691114245", "Bruce Springsteen", "Children's", 4 },
+                    { "3006932313452", "MacLean & MacLean", "Jazz", 0 },
+                    { "1025115734625", "Matthew Good Band", "Blues", 3 },
+                    { "1605126811368", "The Lowest of the Low", "Rock", 2 },
+                    { "7400859921856", "The Moffatts", "Rock", 0 },
+                    { "3389213192262", "Moist", "Emo", 0 },
+                    { "3410968979323", "Little Caesar and the Consuls", "Blues", 3 },
+                    { "4432812989324", "Moneyshot", "Doo-Wop", 4 },
+                    { "3884883049814", "Van Halen", "Asian Screamo", 0 },
+                    { "3301752931091", "Moxy", "Easy Listening", 4 },
+                    { "8351513099078", "George Michael", "Rock", 3 },
+                    { "2779430793957", "Donna Summer", "Jazz", 3 },
+                    { "9940055103223", "Guns N' Roses", "Pop", 4 },
+                    { "1019347155282", "The Lincolns", "Asian House", 4 },
+                    { "5050322275884", "The Lincolns", "Classic Easy Listening", 4 },
+                    { "6800915822519", "Manteca", "Modern Rock", 4 },
+                    { "3980715321187", "Elvis Presley", "Jazz", 0 }
                 });
 
             migrationBuilder.InsertData(
@@ -2726,38 +2726,38 @@ namespace DataAccess.Migrations
                 columns: new[] { "IsbnId", "Author", "BookName", "Count" },
                 values: new object[,]
                 {
-                    { "6969897167384", "Mannequin Depressives", "Folk", 1 },
-                    { "8933409113417", "Malajube", "Brazillian Pop", 1 },
-                    { "2436432695641", "Eagles", "Electronic Jazz", 1 },
-                    { "7763691850705", "Celine Dion", "Classical", 1 },
-                    { "1105469738646", "Marianas Trench", "Asian Jazz", 1 },
-                    { "2434743979503", "Mountain City Four", "Electronic Easy Listening", 1 },
-                    { "2170052953169", "The Lemon Bucket Orkestra", "House", 1 },
-                    { "3782482046704", "Frank Sinatra", "Glam Blues", 1 },
-                    { "5672042348236", "Stevie Wonder", "Jazz", 1 },
-                    { "6561675118290", "The Beatles", "Classic Grunge", 1 },
-                    { "3617592757519", "Memoryhouse", "Grunge", 1 },
-                    { "3822315428099", "Limblifter", "Classic Jazz", 1 },
-                    { "0770057649771", "Aerosmith", "Classical", 1 },
-                    { "1433384780415", "Men Without Hats", "African Folk", 1 },
-                    { "0353837847875", "MSTRKRFT", "Jazz", 1 },
-                    { "1692906452134", "The Carpenters", "Hard Rock", 1 },
-                    { "1463953494758", "The Midway State", "Caribbean Classical", 1 },
-                    { "4293004776859", "Mountain City Four", "Glam Grunge", 1 },
-                    { "9593274347470", "Eminem", "Classical", 1 },
-                    { "1424608715224", "Mystery Machine", "House", 1 },
-                    { "3534785739108", "The Matadors", "Rock", 1 },
-                    { "6360273616245", "Means", "Screamo", 1 },
-                    { "8052184966186", "The Mark Inside", "Glam Jazz", 1 },
-                    { "9246277388905", "Malajube", "Fresh Screamo", 1 },
-                    { "0558053896195", "Martyr", "Rock", 1 },
-                    { "7205019943841", "Luther Wright and the Wrongs", "Classic Pop", 1 },
-                    { "0266116448657", "The Memories Attack", "Jazz", 1 },
-                    { "2766738206063", "Longing for Dawn", "Jazz", 1 },
-                    { "0018002062960", "Prince", "Children's", 1 },
-                    { "7800234272850", "Van Halen", "House", 1 },
-                    { "0680331422347", "Moev", "Easy Listening", 1 },
-                    { "5538425960674", "Mythos", "Asian Dance", 1 }
+                    { "2359703779748", "Lost Dakotas", "Acid R&B", 1 },
+                    { "5209975288043", "Mood Ruff", "African Children's", 2 },
+                    { "5516437303639", "Me Mom & Morgentaler", "Asian Doo-Wop", 2 },
+                    { "2927359957544", "Paul McCartney", "Dance", 2 },
+                    { "0275430304882", "Merryweather", "Jazz", 3 },
+                    { "2328246647036", "Frank Sinatra", "Avant-Garde Dance", 0 },
+                    { "1022369291702", "The McRackins", "Blues", 4 },
+                    { "1455476020175", "Julio Iglesias", "Children's", 2 },
+                    { "5785541004715", "Lola Dutronic", "Dance", 2 },
+                    { "8150400921691", "MonkeyJunk", "Jazzy Emo", 4 },
+                    { "1413903893531", "Limblifter", "Screamo", 1 },
+                    { "5665376337633", "George Michael", "R&B", 1 },
+                    { "4502703758386", "Motion Ensemble", "Caribbean Doo-Wop", 3 },
+                    { "3982434858617", "Marianas Trench", "Electronic Screamo", 4 },
+                    { "6625844999270", "Dire Straits", "Asian Jazz", 2 },
+                    { "3934224823627", "Julio Iglesias", "Blues", 2 },
+                    { "9356526179527", "Mahogany Rush", "Screamo", 4 },
+                    { "0159447532742", "George Michael", "House", 0 },
+                    { "2960991993233", "Moxy", "African Easy Listening", 3 },
+                    { "7134769329952", "LMDS", "Jazzy Funk", 1 },
+                    { "7055729903821", "Land of Talk", "Easy Listening", 1 },
+                    { "7811459048241", "Letters to Elora", "R&B", 3 },
+                    { "2728343632158", "Cher", "Modern Rock", 0 },
+                    { "4077424477123", "Lost Dakotas", "Modern Rock", 1 },
+                    { "0939829818265", "The Mohawk Lodge", "Screamo", 3 },
+                    { "7562200747398", "Len", "Modern Children's", 0 },
+                    { "3313163759234", "Mr. Pine", "Jazzy Jazz", 3 },
+                    { "8436915081057", "Lotus Child", "Jazz", 3 },
+                    { "0675631421591", "Live on Arrival", "Screamo", 4 },
+                    { "7011475466543", "Lili Fatale", "Blues", 1 },
+                    { "5539355897790", "Santana", "Rock", 0 },
+                    { "9750300247358", "Madonna", "Brazillian House", 2 }
                 });
 
             migrationBuilder.UpdateData(
@@ -2765,280 +2765,280 @@ namespace DataAccess.Migrations
                 keyColumn: "MemberId",
                 keyValue: 1,
                 columns: new[] { "BirthDate", "EmailAddress", "FirstName", "HomeAddress", "LastName", "Password", "PhoneNumber", "RegistrationDate", "Username" },
-                values: new object[] { new DateTime(2020, 4, 13, 5, 51, 47, 0, DateTimeKind.Unspecified), "adrianhenderson@libra.ry", "Adrian", "5734 Driggs Avenue ", "Henderson", "Polaroid", "(411) 574-0519", new DateTime(2020, 5, 4, 20, 17, 53, 68, DateTimeKind.Local).AddTicks(6871), "adrianhenderson" });
+                values: new object[] { new DateTime(2010, 5, 3, 20, 28, 8, 0, DateTimeKind.Unspecified), "jenniferdavis@libra.ry", "Jennifer", "2048 Lott Street ", "Davis", "cleanse", "(461) 290-8487", new DateTime(2020, 11, 19, 0, 50, 43, 625, DateTimeKind.Local).AddTicks(9407), "jenniferdavis" });
 
             migrationBuilder.UpdateData(
                 table: "Members",
                 keyColumn: "MemberId",
                 keyValue: 2,
                 columns: new[] { "BirthDate", "EmailAddress", "FirstName", "HomeAddress", "LastName", "Password", "PhoneNumber", "RegistrationDate", "Username" },
-                values: new object[] { new DateTime(2008, 3, 2, 18, 2, 17, 0, DateTimeKind.Unspecified), "oliviapowell@libra.ry", "Olivia", "5128 Ocean Court ", "Powell", "synth", "(766) 417-6433", new DateTime(2018, 6, 2, 20, 17, 53, 68, DateTimeKind.Local).AddTicks(8692), "oliviapowell" });
+                values: new object[] { new DateTime(1955, 4, 10, 20, 4, 21, 0, DateTimeKind.Unspecified), "daltonparker@libra.ry", "Dalton", "8467 Howard Alley ", "Parker", "stumptown", "(586) 373-7449", new DateTime(2019, 3, 8, 0, 50, 43, 626, DateTimeKind.Local).AddTicks(2198), "daltonparker" });
 
             migrationBuilder.UpdateData(
                 table: "Members",
                 keyColumn: "MemberId",
                 keyValue: 3,
-                columns: new[] { "BirthDate", "EmailAddress", "FirstName", "HomeAddress", "LastName", "Password", "PhoneNumber", "RegistrationDate", "Username" },
-                values: new object[] { new DateTime(1911, 11, 6, 10, 59, 40, 0, DateTimeKind.Unspecified), "trevortellies@libra.ry", "Trevor", "3391 Halsey Street ", "Tellies", "you", "(600) 472-8131", new DateTime(2019, 2, 23, 20, 17, 53, 68, DateTimeKind.Local).AddTicks(9240), "trevortellies" });
+                columns: new[] { "BirthDate", "EmailAddress", "FirstName", "HomeAddress", "LastName", "PhoneNumber", "RegistrationDate", "Username" },
+                values: new object[] { new DateTime(1947, 5, 24, 14, 14, 46, 0, DateTimeKind.Unspecified), "mariamorgan@libra.ry", "Maria", "9136 Martense Street ", "Morgan", "(470) 592-4426", new DateTime(2020, 5, 12, 0, 50, 43, 626, DateTimeKind.Local).AddTicks(2806), "mariamorgan" });
 
             migrationBuilder.UpdateData(
                 table: "Members",
                 keyColumn: "MemberId",
                 keyValue: 4,
                 columns: new[] { "BirthDate", "EmailAddress", "FirstName", "HomeAddress", "LastName", "Password", "PhoneNumber", "RegistrationDate", "Username" },
-                values: new object[] { new DateTime(1985, 4, 21, 9, 48, 2, 0, DateTimeKind.Unspecified), "ısabellacooper@libra.ry", "Isabella", "2430 Apollo Street ", "Cooper", "small", "(629) 684-5634", new DateTime(2020, 7, 7, 20, 17, 53, 68, DateTimeKind.Local).AddTicks(9741), "ısabellacooper" });
+                values: new object[] { new DateTime(1941, 10, 4, 2, 41, 42, 0, DateTimeKind.Unspecified), "ethanlong@libra.ry", "Ethan", "4168 Diamond Street ", "Long", "readymade", "(523) 201-1318", new DateTime(2019, 9, 29, 0, 50, 43, 626, DateTimeKind.Local).AddTicks(3864), "ethanlong" });
 
             migrationBuilder.UpdateData(
                 table: "Members",
                 keyColumn: "MemberId",
                 keyValue: 5,
                 columns: new[] { "BirthDate", "EmailAddress", "FirstName", "HomeAddress", "LastName", "Password", "PhoneNumber", "RegistrationDate", "Username" },
-                values: new object[] { new DateTime(2014, 8, 14, 19, 0, 36, 0, DateTimeKind.Unspecified), "sabrinadavis@libra.ry", "Sabrina", "4167 Amber Street ", "Davis", "richardson", "(406) 424-0870", new DateTime(2020, 6, 5, 20, 17, 53, 69, DateTimeKind.Local).AddTicks(236), "sabrinadavis" });
+                values: new object[] { new DateTime(1987, 6, 13, 13, 32, 40, 0, DateTimeKind.Unspecified), "patricktellies@libra.ry", "Patrick", "5892 Park Place ", "Tellies", "vice", "(693) 407-2108", new DateTime(2019, 6, 12, 0, 50, 43, 626, DateTimeKind.Local).AddTicks(4562), "patricktellies" });
 
             migrationBuilder.UpdateData(
                 table: "Members",
                 keyColumn: "MemberId",
                 keyValue: 6,
                 columns: new[] { "BirthDate", "EmailAddress", "FirstName", "HomeAddress", "LastName", "Password", "PhoneNumber", "RegistrationDate", "Username" },
-                values: new object[] { new DateTime(1930, 9, 7, 17, 33, 20, 0, DateTimeKind.Unspecified), "richardross@libra.ry", "Richard", "8654 Vermont Street ", "Ross", "fap", "(479) 428-6231", new DateTime(2018, 10, 23, 20, 17, 53, 69, DateTimeKind.Local).AddTicks(723), "richardross" });
+                values: new object[] { new DateTime(1959, 1, 16, 8, 16, 2, 0, DateTimeKind.Unspecified), "kermitwashington@libra.ry", "Kermit", "3135 Bokee Court ", "Washington", "Bicycle", "(245) 555-6118", new DateTime(2019, 4, 2, 0, 50, 43, 626, DateTimeKind.Local).AddTicks(5641), "kermitwashington" });
 
             migrationBuilder.UpdateData(
                 table: "Members",
                 keyColumn: "MemberId",
                 keyValue: 7,
                 columns: new[] { "BirthDate", "EmailAddress", "FirstName", "HomeAddress", "LastName", "Password", "PhoneNumber", "RegistrationDate", "Username" },
-                values: new object[] { new DateTime(1905, 6, 23, 8, 27, 17, 0, DateTimeKind.Unspecified), "megangonzales@libra.ry", "Megan", "7377 Bridge Street ", "Gonzales", "Post-ironic", "(229) 582-4597", new DateTime(2020, 3, 4, 20, 17, 53, 69, DateTimeKind.Local).AddTicks(1199), "megangonzales" });
+                values: new object[] { new DateTime(1926, 6, 8, 19, 45, 7, 0, DateTimeKind.Unspecified), "kecialee@libra.ry", "Kecia", "5740 Crescent Street ", "Lee", "Pop-up", "(375) 756-8660", new DateTime(2018, 7, 27, 0, 50, 43, 626, DateTimeKind.Local).AddTicks(6820), "kecialee" });
 
             migrationBuilder.UpdateData(
                 table: "Members",
                 keyColumn: "MemberId",
                 keyValue: 8,
                 columns: new[] { "BirthDate", "EmailAddress", "FirstName", "HomeAddress", "LastName", "Password", "PhoneNumber", "RegistrationDate", "Username" },
-                values: new object[] { new DateTime(1938, 10, 10, 21, 49, 55, 0, DateTimeKind.Unspecified), "nicolehayes@libra.ry", "Nicole", "4523 Raleigh Place ", "Hayes", "post-ironic", "(375) 662-5486", new DateTime(2020, 2, 15, 20, 17, 53, 69, DateTimeKind.Local).AddTicks(1678), "nicolehayes" });
+                values: new object[] { new DateTime(1959, 1, 2, 6, 12, 5, 0, DateTimeKind.Unspecified), "katherineradcliff@libra.ry", "Katherine", "9512 Columbia Heights  ", "Radcliff", "godard", "(400) 302-2278", new DateTime(2018, 9, 20, 0, 50, 43, 626, DateTimeKind.Local).AddTicks(7703), "katherineradcliff" });
 
             migrationBuilder.UpdateData(
                 table: "Members",
                 keyColumn: "MemberId",
                 keyValue: 9,
                 columns: new[] { "BirthDate", "EmailAddress", "FirstName", "HomeAddress", "LastName", "Password", "PhoneNumber", "RegistrationDate", "Username" },
-                values: new object[] { new DateTime(1957, 1, 17, 14, 0, 1, 0, DateTimeKind.Unspecified), "katelynsimmons@libra.ry", "Katelyn", "5749 Walker Court ", "Simmons", "case", "(435) 284-0578", new DateTime(2018, 8, 2, 20, 17, 53, 69, DateTimeKind.Local).AddTicks(2241), "katelynsimmons" });
+                values: new object[] { new DateTime(1996, 8, 25, 0, 58, 52, 0, DateTimeKind.Unspecified), "sarawalker@libra.ry", "Sara", "9925 Gain Court ", "Walker", "VHS", "(592) 508-6616", new DateTime(2020, 12, 11, 0, 50, 43, 626, DateTimeKind.Local).AddTicks(8364), "sarawalker" });
 
             migrationBuilder.UpdateData(
                 table: "Members",
                 keyColumn: "MemberId",
                 keyValue: 10,
                 columns: new[] { "BirthDate", "EmailAddress", "FirstName", "HomeAddress", "LastName", "Password", "PhoneNumber", "RegistrationDate", "Username" },
-                values: new object[] { new DateTime(1992, 7, 5, 9, 25, 56, 0, DateTimeKind.Unspecified), "emilychambers@libra.ry", "Emily", "6664 Warren Street ", "Chambers", "organic", "(530) 605-5457", new DateTime(2018, 8, 12, 20, 17, 53, 69, DateTimeKind.Local).AddTicks(2688), "emilychambers" });
+                values: new object[] { new DateTime(1923, 3, 11, 12, 6, 21, 0, DateTimeKind.Unspecified), "alexandralewis@libra.ry", "Alexandra", "3289 Mac Kay Place ", "Lewis", "booth", "(665) 392-8296", new DateTime(2019, 8, 13, 0, 50, 43, 626, DateTimeKind.Local).AddTicks(9334), "alexandralewis" });
 
             migrationBuilder.UpdateData(
                 table: "Members",
                 keyColumn: "MemberId",
                 keyValue: 11,
                 columns: new[] { "BirthDate", "EmailAddress", "FirstName", "HomeAddress", "LastName", "Password", "PhoneNumber", "RegistrationDate", "Username" },
-                values: new object[] { new DateTime(1915, 1, 21, 20, 52, 35, 0, DateTimeKind.Unspecified), "kathrynreed@libra.ry", "Kathryn", "569 Kiely Place ", "Reed", "Gluten-free", "(373) 352-9721", new DateTime(2019, 11, 6, 20, 17, 53, 69, DateTimeKind.Local).AddTicks(3253), "kathrynreed" });
+                values: new object[] { new DateTime(1989, 4, 25, 14, 15, 11, 0, DateTimeKind.Unspecified), "elizabethpitt@libra.ry", "Elizabeth", "1304 Truxton Street ", "Pitt", "street", "(734) 716-2222", new DateTime(2018, 8, 17, 0, 50, 43, 627, DateTimeKind.Local).AddTicks(3001), "elizabethpitt" });
 
             migrationBuilder.UpdateData(
                 table: "Members",
                 keyColumn: "MemberId",
                 keyValue: 12,
                 columns: new[] { "BirthDate", "EmailAddress", "FirstName", "HomeAddress", "LastName", "Password", "PhoneNumber", "RegistrationDate", "Username" },
-                values: new object[] { new DateTime(1957, 1, 22, 9, 50, 48, 0, DateTimeKind.Unspecified), "trevorhall@libra.ry", "Trevor", "5073 Losee Terrace ", "Hall", "future", "(242) 604-1217", new DateTime(2020, 7, 22, 20, 17, 53, 69, DateTimeKind.Local).AddTicks(3743), "trevorhall" });
+                values: new object[] { new DateTime(1954, 3, 13, 21, 6, 33, 0, DateTimeKind.Unspecified), "rachelcoleman@libra.ry", "Rachel", "4834 Eldert Street ", "Coleman", "you", "(547) 614-7976", new DateTime(2020, 2, 17, 0, 50, 43, 627, DateTimeKind.Local).AddTicks(3753), "rachelcoleman" });
 
             migrationBuilder.UpdateData(
                 table: "Members",
                 keyColumn: "MemberId",
                 keyValue: 13,
-                columns: new[] { "BirthDate", "EmailAddress", "FirstName", "HomeAddress", "LastName", "PhoneNumber", "RegistrationDate", "Username" },
-                values: new object[] { new DateTime(1992, 10, 1, 13, 40, 8, 0, DateTimeKind.Unspecified), "kellyross@libra.ry", "Kelly", "645 Aitken Place ", "Ross", "(282) 388-1701", new DateTime(2020, 4, 8, 20, 17, 53, 69, DateTimeKind.Local).AddTicks(4263), "kellyross" });
+                columns: new[] { "BirthDate", "EmailAddress", "FirstName", "HomeAddress", "LastName", "Password", "PhoneNumber", "RegistrationDate", "Username" },
+                values: new object[] { new DateTime(2020, 7, 15, 13, 3, 24, 0, DateTimeKind.Unspecified), "marissaharris@libra.ry", "Marissa", "7349 Brighton 1st Terrace ", "Harris", "pack", "(435) 699-1197", new DateTime(2020, 5, 9, 0, 50, 43, 627, DateTimeKind.Local).AddTicks(4430), "marissaharris" });
 
             migrationBuilder.UpdateData(
                 table: "Members",
                 keyColumn: "MemberId",
                 keyValue: 14,
                 columns: new[] { "BirthDate", "EmailAddress", "FirstName", "HomeAddress", "LastName", "Password", "PhoneNumber", "RegistrationDate", "Username" },
-                values: new object[] { new DateTime(1917, 7, 8, 8, 1, 18, 0, DateTimeKind.Unspecified), "loganrobinson@libra.ry", "Logan", "1216 Covert Street ", "Robinson", "of", "(725) 399-5756", new DateTime(2020, 8, 3, 20, 17, 53, 69, DateTimeKind.Local).AddTicks(4716), "loganrobinson" });
+                values: new object[] { new DateTime(2009, 10, 13, 9, 45, 33, 0, DateTimeKind.Unspecified), "jonathandavis@libra.ry", "Jonathan", "2303 McKibbin Street ", "Davis", "vice", "(273) 255-9291", new DateTime(2020, 6, 27, 0, 50, 43, 627, DateTimeKind.Local).AddTicks(6538), "jonathandavis" });
 
             migrationBuilder.UpdateData(
                 table: "Members",
                 keyColumn: "MemberId",
                 keyValue: 15,
                 columns: new[] { "BirthDate", "EmailAddress", "FirstName", "HomeAddress", "LastName", "Password", "PhoneNumber", "RegistrationDate", "Username" },
-                values: new object[] { new DateTime(1978, 9, 22, 8, 36, 14, 0, DateTimeKind.Unspecified), "spencermorgan@libra.ry", "Spencer", "8776 Bedford Place ", "Morgan", "messenger", "(638) 669-4419", new DateTime(2020, 7, 14, 20, 17, 53, 69, DateTimeKind.Local).AddTicks(5223), "spencermorgan" });
+                values: new object[] { new DateTime(2008, 10, 3, 16, 30, 59, 0, DateTimeKind.Unspecified), "lucaswashington@libra.ry", "Lucas", "2212 Lyme Avenue ", "Washington", "williamsburg", "(636) 365-5214", new DateTime(2020, 7, 4, 0, 50, 43, 627, DateTimeKind.Local).AddTicks(7286), "lucaswashington" });
 
             migrationBuilder.UpdateData(
                 table: "Members",
                 keyColumn: "MemberId",
                 keyValue: 16,
                 columns: new[] { "BirthDate", "EmailAddress", "FirstName", "HomeAddress", "LastName", "Password", "PhoneNumber", "RegistrationDate", "Username" },
-                values: new object[] { new DateTime(2007, 7, 23, 9, 27, 52, 0, DateTimeKind.Unspecified), "luishenderson@libra.ry", "Luis", "8661 Monroe Street ", "Henderson", "sriracha", "(379) 380-4848", new DateTime(2019, 1, 11, 20, 17, 53, 69, DateTimeKind.Local).AddTicks(5691), "luishenderson" });
+                values: new object[] { new DateTime(1952, 1, 22, 14, 11, 12, 0, DateTimeKind.Unspecified), "victorkelly@libra.ry", "Victor", "4556 19th Street ", "Kelly", "eye", "(618) 399-9367", new DateTime(2020, 4, 16, 0, 50, 43, 627, DateTimeKind.Local).AddTicks(8113), "victorkelly" });
 
             migrationBuilder.UpdateData(
                 table: "Members",
                 keyColumn: "MemberId",
                 keyValue: 17,
                 columns: new[] { "BirthDate", "EmailAddress", "FirstName", "HomeAddress", "LastName", "Password", "PhoneNumber", "RegistrationDate", "Username" },
-                values: new object[] { new DateTime(2003, 3, 31, 17, 20, 36, 0, DateTimeKind.Unspecified), "lucasrivera@libra.ry", "Lucas", "1817 Skidmore Place ", "Rivera", "mlkshk", "(763) 379-0053", new DateTime(2019, 11, 18, 20, 17, 53, 69, DateTimeKind.Local).AddTicks(6182), "lucasrivera" });
+                values: new object[] { new DateTime(2013, 11, 6, 2, 12, 4, 0, DateTimeKind.Unspecified), "coleallen@libra.ry", "Cole", "3317 Dictum Court ", "Allen", "rights", "(416) 613-6250", new DateTime(2019, 12, 6, 0, 50, 43, 627, DateTimeKind.Local).AddTicks(8741), "coleallen" });
 
             migrationBuilder.UpdateData(
                 table: "Members",
                 keyColumn: "MemberId",
                 keyValue: 18,
                 columns: new[] { "BirthDate", "EmailAddress", "FirstName", "HomeAddress", "LastName", "Password", "PhoneNumber", "RegistrationDate", "Username" },
-                values: new object[] { new DateTime(1961, 10, 8, 10, 9, 16, 0, DateTimeKind.Unspecified), "chloehernandez@libra.ry", "Chloe", "4750 Paerdegat 13th Street ", "Hernandez", "shorts", "(537) 669-5522", new DateTime(2020, 4, 17, 20, 17, 53, 69, DateTimeKind.Local).AddTicks(6635), "chloehernandez" });
+                values: new object[] { new DateTime(2002, 2, 24, 8, 43, 41, 0, DateTimeKind.Unspecified), "stephenıginla@libra.ry", "Stephen", "301 Church Lane ", "Iginla", "vegan", "(572) 366-2491", new DateTime(2019, 5, 7, 0, 50, 43, 627, DateTimeKind.Local).AddTicks(9267), "stephenıginla" });
 
             migrationBuilder.UpdateData(
                 table: "Members",
                 keyColumn: "MemberId",
                 keyValue: 19,
                 columns: new[] { "BirthDate", "EmailAddress", "FirstName", "HomeAddress", "LastName", "Password", "PhoneNumber", "RegistrationDate", "Username" },
-                values: new object[] { new DateTime(1933, 12, 20, 3, 48, 22, 0, DateTimeKind.Unspecified), "baileybrandzin@libra.ry", "Bailey", "7608 Roder Avenue ", "Brandzin", "occupy", "(650) 305-3979", new DateTime(2019, 4, 24, 20, 17, 53, 69, DateTimeKind.Local).AddTicks(7137), "baileybrandzin" });
+                values: new object[] { new DateTime(1959, 2, 22, 22, 4, 40, 0, DateTimeKind.Unspecified), "avaedwards@libra.ry", "Ava", "4923 Farragut Road ", "Edwards", "raw", "(569) 314-5294", new DateTime(2019, 12, 12, 0, 50, 43, 627, DateTimeKind.Local).AddTicks(9750), "avaedwards" });
 
             migrationBuilder.UpdateData(
                 table: "Members",
                 keyColumn: "MemberId",
                 keyValue: 20,
                 columns: new[] { "BirthDate", "EmailAddress", "FirstName", "HomeAddress", "LastName", "Password", "PhoneNumber", "RegistrationDate", "Username" },
-                values: new object[] { new DateTime(1973, 2, 17, 23, 28, 42, 0, DateTimeKind.Unspecified), "lucaspowell@libra.ry", "Lucas", "6116 Bay Street ", "Powell", "brooklyn", "(256) 374-0520", new DateTime(2020, 7, 30, 20, 17, 53, 69, DateTimeKind.Local).AddTicks(7615), "lucaspowell" });
+                values: new object[] { new DateTime(1930, 10, 29, 7, 53, 7, 0, DateTimeKind.Unspecified), "vanessadiaz@libra.ry", "Vanessa", "4265 Stryker Court ", "Diaz", "point", "(738) 383-5456", new DateTime(2019, 6, 2, 0, 50, 43, 628, DateTimeKind.Local).AddTicks(644), "vanessadiaz" });
 
             migrationBuilder.UpdateData(
                 table: "BookTransactions",
                 keyColumn: "TransactionId",
                 keyValue: 21,
                 columns: new[] { "EndDate", "IsbnId", "StartDate" },
-                values: new object[] { new DateTime(1918, 2, 25, 3, 16, 50, 0, DateTimeKind.Unspecified), "0611160809575", new DateTime(1982, 10, 30, 7, 39, 10, 0, DateTimeKind.Unspecified) });
+                values: new object[] { new DateTime(1998, 6, 26, 13, 24, 51, 0, DateTimeKind.Unspecified), "3357215325839", new DateTime(1975, 9, 16, 23, 1, 17, 0, DateTimeKind.Unspecified) });
 
             migrationBuilder.UpdateData(
                 table: "BookTransactions",
                 keyColumn: "TransactionId",
                 keyValue: 22,
                 columns: new[] { "EndDate", "IsbnId", "StartDate" },
-                values: new object[] { new DateTime(1942, 9, 25, 18, 47, 53, 0, DateTimeKind.Unspecified), "6865478461589", new DateTime(1986, 10, 22, 11, 36, 7, 0, DateTimeKind.Unspecified) });
+                values: new object[] { new DateTime(1966, 8, 27, 11, 11, 50, 0, DateTimeKind.Unspecified), "7986235128110", new DateTime(1965, 3, 2, 4, 48, 49, 0, DateTimeKind.Unspecified) });
 
             migrationBuilder.UpdateData(
                 table: "BookTransactions",
                 keyColumn: "TransactionId",
                 keyValue: 23,
                 columns: new[] { "EndDate", "IsbnId", "StartDate" },
-                values: new object[] { new DateTime(1921, 10, 23, 2, 15, 5, 0, DateTimeKind.Unspecified), "0302531185230", new DateTime(1945, 12, 14, 13, 45, 31, 0, DateTimeKind.Unspecified) });
+                values: new object[] { new DateTime(1925, 5, 29, 19, 11, 15, 0, DateTimeKind.Unspecified), "8353494899159", new DateTime(1985, 8, 19, 16, 54, 59, 0, DateTimeKind.Unspecified) });
 
             migrationBuilder.UpdateData(
                 table: "BookTransactions",
                 keyColumn: "TransactionId",
                 keyValue: 24,
                 columns: new[] { "EndDate", "IsbnId", "StartDate" },
-                values: new object[] { new DateTime(1999, 1, 7, 19, 9, 6, 0, DateTimeKind.Unspecified), "0113771319471", new DateTime(2014, 8, 4, 11, 17, 12, 0, DateTimeKind.Unspecified) });
+                values: new object[] { new DateTime(1976, 11, 12, 2, 47, 31, 0, DateTimeKind.Unspecified), "1629348519600", new DateTime(1916, 3, 20, 16, 5, 9, 0, DateTimeKind.Unspecified) });
 
             migrationBuilder.UpdateData(
                 table: "BookTransactions",
                 keyColumn: "TransactionId",
                 keyValue: 25,
                 columns: new[] { "EndDate", "IsbnId", "StartDate" },
-                values: new object[] { new DateTime(1912, 4, 26, 6, 46, 36, 0, DateTimeKind.Unspecified), "2476534456564", new DateTime(1939, 12, 4, 19, 47, 5, 0, DateTimeKind.Unspecified) });
+                values: new object[] { new DateTime(1910, 12, 24, 11, 20, 7, 0, DateTimeKind.Unspecified), "7777339078335", new DateTime(1932, 8, 17, 14, 19, 48, 0, DateTimeKind.Unspecified) });
 
             migrationBuilder.UpdateData(
                 table: "BookTransactions",
                 keyColumn: "TransactionId",
                 keyValue: 26,
                 columns: new[] { "EndDate", "IsbnId", "StartDate" },
-                values: new object[] { new DateTime(1974, 11, 27, 3, 19, 8, 0, DateTimeKind.Unspecified), "2022446580281", new DateTime(1990, 11, 3, 7, 52, 3, 0, DateTimeKind.Unspecified) });
+                values: new object[] { new DateTime(1991, 9, 5, 9, 2, 24, 0, DateTimeKind.Unspecified), "8189427658712", new DateTime(1981, 2, 26, 4, 40, 30, 0, DateTimeKind.Unspecified) });
 
             migrationBuilder.UpdateData(
                 table: "BookTransactions",
                 keyColumn: "TransactionId",
                 keyValue: 27,
                 columns: new[] { "EndDate", "IsbnId", "StartDate" },
-                values: new object[] { new DateTime(1938, 4, 4, 19, 43, 56, 0, DateTimeKind.Unspecified), "7129035680462", new DateTime(1963, 10, 31, 10, 37, 55, 0, DateTimeKind.Unspecified) });
+                values: new object[] { new DateTime(1914, 10, 5, 7, 33, 31, 0, DateTimeKind.Unspecified), "6646252652661", new DateTime(2014, 8, 18, 10, 58, 21, 0, DateTimeKind.Unspecified) });
 
             migrationBuilder.UpdateData(
                 table: "BookTransactions",
                 keyColumn: "TransactionId",
                 keyValue: 28,
                 columns: new[] { "EndDate", "IsbnId", "StartDate" },
-                values: new object[] { new DateTime(2019, 9, 2, 8, 23, 22, 0, DateTimeKind.Unspecified), "4732604102549", new DateTime(1900, 7, 11, 4, 25, 4, 0, DateTimeKind.Unspecified) });
+                values: new object[] { new DateTime(1965, 9, 23, 6, 44, 58, 0, DateTimeKind.Unspecified), "3603409817166", new DateTime(1980, 1, 6, 4, 54, 17, 0, DateTimeKind.Unspecified) });
 
             migrationBuilder.UpdateData(
                 table: "BookTransactions",
                 keyColumn: "TransactionId",
                 keyValue: 29,
                 columns: new[] { "EndDate", "IsbnId", "StartDate" },
-                values: new object[] { new DateTime(1951, 6, 10, 7, 30, 41, 0, DateTimeKind.Unspecified), "4608265372476", new DateTime(1955, 3, 29, 21, 5, 16, 0, DateTimeKind.Unspecified) });
+                values: new object[] { new DateTime(1965, 1, 7, 19, 20, 46, 0, DateTimeKind.Unspecified), "2373906637541", new DateTime(2005, 7, 18, 18, 5, 44, 0, DateTimeKind.Unspecified) });
 
             migrationBuilder.UpdateData(
                 table: "BookTransactions",
                 keyColumn: "TransactionId",
                 keyValue: 30,
                 columns: new[] { "EndDate", "IsbnId", "StartDate" },
-                values: new object[] { new DateTime(1958, 7, 13, 13, 53, 44, 0, DateTimeKind.Unspecified), "8333925902443", new DateTime(1956, 12, 10, 6, 32, 5, 0, DateTimeKind.Unspecified) });
+                values: new object[] { new DateTime(2002, 10, 18, 5, 13, 7, 0, DateTimeKind.Unspecified), "9561942698182", new DateTime(1969, 12, 7, 23, 55, 20, 0, DateTimeKind.Unspecified) });
 
             migrationBuilder.UpdateData(
                 table: "BookTransactions",
                 keyColumn: "TransactionId",
                 keyValue: 31,
                 columns: new[] { "EndDate", "IsbnId", "StartDate" },
-                values: new object[] { new DateTime(1928, 5, 12, 17, 44, 58, 0, DateTimeKind.Unspecified), "0635498971091", new DateTime(1900, 12, 23, 21, 36, 36, 0, DateTimeKind.Unspecified) });
+                values: new object[] { new DateTime(1950, 10, 30, 3, 7, 28, 0, DateTimeKind.Unspecified), "3745892818106", new DateTime(2018, 9, 9, 8, 24, 49, 0, DateTimeKind.Unspecified) });
 
             migrationBuilder.UpdateData(
                 table: "BookTransactions",
                 keyColumn: "TransactionId",
                 keyValue: 32,
                 columns: new[] { "EndDate", "IsbnId", "StartDate" },
-                values: new object[] { new DateTime(1904, 3, 20, 1, 22, 23, 0, DateTimeKind.Unspecified), "0951074427841", new DateTime(1937, 1, 14, 7, 13, 11, 0, DateTimeKind.Unspecified) });
+                values: new object[] { new DateTime(1911, 5, 22, 19, 28, 48, 0, DateTimeKind.Unspecified), "0033159407937", new DateTime(1949, 6, 24, 5, 11, 57, 0, DateTimeKind.Unspecified) });
 
             migrationBuilder.UpdateData(
                 table: "BookTransactions",
                 keyColumn: "TransactionId",
                 keyValue: 33,
                 columns: new[] { "EndDate", "IsbnId", "StartDate" },
-                values: new object[] { new DateTime(1966, 5, 14, 0, 22, 56, 0, DateTimeKind.Unspecified), "6809583039145", new DateTime(1969, 7, 9, 18, 10, 8, 0, DateTimeKind.Unspecified) });
+                values: new object[] { new DateTime(1902, 7, 13, 17, 7, 3, 0, DateTimeKind.Unspecified), "4310358326396", new DateTime(1979, 2, 25, 7, 54, 49, 0, DateTimeKind.Unspecified) });
 
             migrationBuilder.UpdateData(
                 table: "BookTransactions",
                 keyColumn: "TransactionId",
                 keyValue: 34,
                 columns: new[] { "EndDate", "IsbnId", "StartDate" },
-                values: new object[] { new DateTime(1931, 8, 13, 8, 33, 19, 0, DateTimeKind.Unspecified), "1249404242079", new DateTime(2009, 7, 7, 12, 13, 56, 0, DateTimeKind.Unspecified) });
+                values: new object[] { new DateTime(2015, 2, 16, 10, 20, 7, 0, DateTimeKind.Unspecified), "2944825869053", new DateTime(1978, 10, 23, 16, 56, 32, 0, DateTimeKind.Unspecified) });
 
             migrationBuilder.UpdateData(
                 table: "BookTransactions",
                 keyColumn: "TransactionId",
                 keyValue: 35,
                 columns: new[] { "EndDate", "IsbnId", "StartDate" },
-                values: new object[] { new DateTime(1973, 10, 5, 6, 34, 46, 0, DateTimeKind.Unspecified), "4976680262243", new DateTime(1984, 9, 26, 0, 16, 47, 0, DateTimeKind.Unspecified) });
+                values: new object[] { new DateTime(1974, 1, 27, 1, 56, 52, 0, DateTimeKind.Unspecified), "9577535896875", new DateTime(1924, 6, 8, 10, 29, 12, 0, DateTimeKind.Unspecified) });
 
             migrationBuilder.UpdateData(
                 table: "BookTransactions",
                 keyColumn: "TransactionId",
                 keyValue: 36,
                 columns: new[] { "EndDate", "IsbnId", "StartDate" },
-                values: new object[] { new DateTime(1994, 4, 14, 4, 41, 35, 0, DateTimeKind.Unspecified), "6868574127264", new DateTime(1920, 4, 5, 12, 44, 24, 0, DateTimeKind.Unspecified) });
+                values: new object[] { new DateTime(1997, 7, 4, 12, 4, 25, 0, DateTimeKind.Unspecified), "0401569264851", new DateTime(1909, 7, 10, 5, 39, 24, 0, DateTimeKind.Unspecified) });
 
             migrationBuilder.UpdateData(
                 table: "BookTransactions",
                 keyColumn: "TransactionId",
                 keyValue: 37,
                 columns: new[] { "EndDate", "IsbnId", "StartDate" },
-                values: new object[] { new DateTime(1977, 2, 28, 1, 37, 58, 0, DateTimeKind.Unspecified), "4589325737983", new DateTime(1970, 10, 7, 19, 56, 4, 0, DateTimeKind.Unspecified) });
+                values: new object[] { new DateTime(2012, 4, 10, 9, 7, 8, 0, DateTimeKind.Unspecified), "2730749510559", new DateTime(1919, 8, 6, 22, 17, 15, 0, DateTimeKind.Unspecified) });
 
             migrationBuilder.UpdateData(
                 table: "BookTransactions",
                 keyColumn: "TransactionId",
                 keyValue: 38,
                 columns: new[] { "EndDate", "IsbnId", "StartDate" },
-                values: new object[] { new DateTime(1939, 8, 26, 1, 22, 51, 0, DateTimeKind.Unspecified), "4239983504446", new DateTime(1905, 6, 28, 12, 7, 16, 0, DateTimeKind.Unspecified) });
+                values: new object[] { new DateTime(1965, 3, 12, 6, 32, 47, 0, DateTimeKind.Unspecified), "0594876721637", new DateTime(1916, 2, 12, 19, 53, 38, 0, DateTimeKind.Unspecified) });
 
             migrationBuilder.UpdateData(
                 table: "BookTransactions",
                 keyColumn: "TransactionId",
                 keyValue: 39,
                 columns: new[] { "EndDate", "IsbnId", "StartDate" },
-                values: new object[] { new DateTime(1933, 3, 16, 20, 24, 5, 0, DateTimeKind.Unspecified), "4066545814895", new DateTime(1941, 4, 4, 12, 32, 47, 0, DateTimeKind.Unspecified) });
+                values: new object[] { new DateTime(1959, 7, 12, 7, 40, 38, 0, DateTimeKind.Unspecified), "2102973872057", new DateTime(1990, 7, 11, 20, 57, 27, 0, DateTimeKind.Unspecified) });
 
             migrationBuilder.UpdateData(
                 table: "BookTransactions",
                 keyColumn: "TransactionId",
                 keyValue: 40,
                 columns: new[] { "EndDate", "IsbnId", "StartDate" },
-                values: new object[] { new DateTime(2000, 9, 29, 5, 26, 9, 0, DateTimeKind.Unspecified), "8485759647523", new DateTime(1911, 4, 28, 21, 6, 7, 0, DateTimeKind.Unspecified) });
+                values: new object[] { new DateTime(2017, 2, 28, 17, 31, 42, 0, DateTimeKind.Unspecified), "1202639278624", new DateTime(1993, 10, 18, 15, 3, 8, 0, DateTimeKind.Unspecified) });
         }
     }
 }
