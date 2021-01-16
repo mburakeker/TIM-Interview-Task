@@ -6,6 +6,9 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using DataAccess.EntityFramework;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
 using Serilog;
 using Serilog.Sinks.Elasticsearch;
 namespace WebApi
@@ -31,7 +34,22 @@ namespace WebApi
                 .Enrich.WithProperty("Environment", environment)
                 .ReadFrom.Configuration(configuration)
                 .CreateLogger();
-            CreateHostBuilder(args).Build().Run();
+            var host = CreateHostBuilder(args).Build();
+            using (var scope = host.Services.CreateScope())
+            {
+                var services = scope.ServiceProvider;
+                try
+                {
+                    var context = services.GetRequiredService<LibraryContext>();
+                    context.Database.Migrate();
+                }
+                catch (Exception ex)
+                {
+                    var logger = services.GetRequiredService<ILogger<Program>>();
+                    logger.LogError(ex, "An error occurred while creating the database.");
+                }
+            }
+            host.Run();
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
