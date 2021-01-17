@@ -11,6 +11,8 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Business.BookManager.Abstract;
+using Business.BookManager.Concrete;
 using Elastic.Apm.NetCoreAll;
 using WebApi.Infrastructure.Extensions;
 
@@ -35,6 +37,7 @@ namespace WebApi
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "ThreadInMotionInterviewTask", Version = "v1" });
             });
             services.AddDbService(Configuration);
+            services.AddTransient<IBookManager, BookManager>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -47,7 +50,11 @@ namespace WebApi
                 app.UseSwagger();
                 app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "ThreadInMotionInterviewTask v1"));
             }
-
+            app.UseCors(x => x
+                .AllowAnyMethod()
+                .AllowAnyHeader()
+                .SetIsOriginAllowed(origin => true)
+                .AllowCredentials());
             app.UseHttpsRedirection();
 
             app.UseRouting();
