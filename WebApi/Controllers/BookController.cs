@@ -35,7 +35,7 @@ namespace WebApi.Controllers
             return response;
         }
 
-        // GET api/<BookController>/book
+        // GET api/<BookController>/{search}
         [HttpGet("{search}")]
         public async Task<Response<Book>> Get(string search)
         {

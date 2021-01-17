@@ -23,10 +23,9 @@ namespace Business.BookManager.Concrete
 
         public async Task<List<Book>> GetBooksByText(string searchText) => await _context.Books.FromSqlRaw(
             "Select * from Books where IsbnId LIKE @SearchText OR Author LIKE @SearchText OR BookName LIKE @SearchText",
-            new SqlParameter("SearchText",searchText)).ToListAsync();
+            new SqlParameter("SearchText",$"%{searchText}%")).ToListAsync();
 
         public async Task<Book> GetBookById(string id) => await _context.Books.SingleAsync(book => book.IsbnId == id);
-
 
     }
 }
