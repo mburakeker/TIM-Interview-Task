@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Business.BookManager.Abstract;
+using Business.Dto;
 using DataAccess.EntityFramework;
 using Entities;
 using Microsoft.Data.SqlClient;
@@ -19,7 +20,7 @@ namespace Business.BookManager.Concrete
             _context = context;
         }
 
-        public async Task<List<Book>> GetBooks() => await _context.Books.ToListAsync();
+        public async Task<List<Book>> GetBooks() => await _context.Books.Take(50).ToListAsync();
 
         public async Task<List<Book>> GetBooksByText(string searchText) => await _context.Books.FromSqlRaw(
             "Select * from Books where IsbnId LIKE @SearchText OR Author LIKE @SearchText OR BookName LIKE @SearchText",
