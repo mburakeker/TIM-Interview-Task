@@ -24,6 +24,21 @@ namespace WebApi.Controllers
             _logger = logger;
             _transactionManager = transactionManager;
         }
+        // GET: api/<TransactionController>
+        [HttpGet]
+        public async Task<Response<BookTransaction>> Get()
+        {
+            var response = new Response<BookTransaction>();
+            try
+            {
+                response.DataList = await _transactionManager.GetBookTransactions();
+            }
+            catch (Exception ex)
+            {
+                response.ErrorList.Add(ex.Adapt<ApiException>());
+            }
+            return response;
+        }
         // GET: api/<TransactionController>/GetSuggestedReturnDate
         [HttpGet("GetSuggestedReturnDate")]
         public Response<ReturnDateDto> GetSuggestedReturnDate()
@@ -39,5 +54,21 @@ namespace WebApi.Controllers
             }
             return response;
         }
+        // POST: api/<TransactionController>
+        [HttpPost]
+        public async Task<Response<ReturnDateDto>> CreateBookTransaction([FromBody] BookTransaction transaction)
+        {
+            var response = new Response<ReturnDateDto>();
+            try
+            {
+                await _transactionManager.CreateBookTransaction(transaction);
+            }
+            catch (Exception ex)
+            {
+                response.ErrorList.Add(ex.Adapt<ApiException>());
+            }
+            return response;
+        }
+
     }
 }
