@@ -14,7 +14,7 @@ namespace WebApi.Infrastructure.Response
 
         public bool ErrorState => ErrorList.Count > 0;
 
-        public bool RequestState => Data != null || DataList.Count > 0;
+        public bool RequestState => Data != null || DataList != null;
         public Task<List<T>> AsyncList { get; set; }
         public int EntityCount { get; set; }
         public Response()

@@ -17,15 +17,11 @@ namespace DataAccess.EntityFramework
             var index = 1;
             A.Configure<Member>()
                 .Fill(m => m.PhoneNumber).AsPhoneNumber()
-                .Fill(c => c.Username, m => Utils.ConvertFullNameToUsername(m.FirstName,m.LastName))
-                .Fill(m => m.EmailAddress, m => $"{m.Username}@libra.ry")
+                .Fill(m => m.EmailAddress, m => $"{Utils.ConvertFullNameToUsername(m.FirstName, m.LastName)}@libra.ry")
                 .Fill(m => m.HomeAddress).AsAddress()
                 .Fill(m => m.BirthDate).AsPastDate()
                 .Fill(m => m.RegistrationDate, Utils.GenerateRegistrationDate)
                 .Fill(m => m.MemberId,()=>index++);
-            index = 1;
-            A.Configure<BookTransaction>()
-                .Fill(bt => bt.TransactionId, () => index++);
         }
         public static List<BookTransaction> CreateBookTransactionsWithRelations(List<Book> books, List<Member> members)
         {
