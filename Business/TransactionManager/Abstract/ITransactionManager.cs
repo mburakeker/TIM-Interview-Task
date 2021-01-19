@@ -11,7 +11,10 @@ namespace Business.TransactionManager.Abstract
     public interface ITransactionManager
     {
         ReturnDateDto SuggestReturnDate(DateTime date, int days);
+        Task<ReturnPriceDto> GetReturnPriceByTransactionId(int transactionId);
         Task CreateBookTransaction(BookTransaction transaction);
-        Task<List<BookTransaction>> GetBookTransactions();
+        Task ReturnBook(int transactionId);
+        Task<List<GetBookTransactionDto>> GetBookTransactions();
+        Task<List<BookTransaction>> SearchBookTransactions(string search);
     }
 }

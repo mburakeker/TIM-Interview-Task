@@ -5,6 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Mapster" Version="7.0.1" />
     <PackageReference Include="Nager.Date" Version="1.27.0" />
   </ItemGroup>
 

@@ -53,5 +53,31 @@ namespace Utility
             var results = transform.TransformFinalBlock(data, 0, data.Length);
             return Encoding.UTF8.GetString(results);
         }
+        public static int Fibonacci(int n)
+        {
+            var a = 0;
+            var b = 1;
+            for (var i = 0; i < n; i++)
+            {
+                var temp = a;
+                a = b;
+                b = temp + b;
+            }
+            return a;
+        }
+        public static double CalculatePrice(int days)
+        {
+            const double coefficient = 0.20;
+            double sumOfPreviousDays = 0.0;
+            double costPreviousDay = 0.0;
+            for (var i = 0; i < days; i++)
+            {
+                double fibonacci = Fibonacci(i);
+                double costToday = fibonacci * coefficient + costPreviousDay;
+                sumOfPreviousDays += costToday;
+                costPreviousDay = costToday;
+            }
+            return sumOfPreviousDays;
+        }
     }
 }

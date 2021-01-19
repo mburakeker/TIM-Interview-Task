@@ -20,8 +20,8 @@ namespace DataAccess.EntityFramework
             var members = A.ListOf<Member>(20);
             modelBuilder.Entity<Book>().HasData(books);
             modelBuilder.Entity<Member>().HasData(members);
-            modelBuilder.Entity<BookTransaction>()
-                .HasData(SeedConfigurations.CreateBookTransactionsWithRelations(books, members));
+            //modelBuilder.Entity<BookTransaction>()
+            //    .HasData(SeedConfigurations.CreateBookTransactionsWithRelations(books, members));
         }
     }
 }
