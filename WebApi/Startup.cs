@@ -13,6 +13,8 @@ using System.Linq;
 using System.Threading.Tasks;
 using Business.BookManager.Abstract;
 using Business.BookManager.Concrete;
+using Business.ReportManager.Abstract;
+using Business.ReportManager.Concrete;
 using Business.TransactionManager.Abstract;
 using Business.TransactionManager.Concrete;
 using Elastic.Apm.NetCoreAll;
@@ -41,6 +43,7 @@ namespace WebApi
             services.AddDbService(Configuration);
             services.AddTransient<IBookManager, BookManager>();
             services.AddTransient<ITransactionManager, TransactionManager>();
+            services.AddTransient<IReportManager, ReportManager>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
