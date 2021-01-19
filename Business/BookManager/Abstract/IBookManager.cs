@@ -10,6 +10,6 @@ namespace Business.BookManager.Abstract
     {
         Task<List<Book>> GetBooks();
         Task<List<Book>> GetBooksByText(string searchText);
-        Task<Book> GetBookById(string id);
+        Task CreateBook(Book book);
     }
 }

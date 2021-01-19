@@ -50,5 +50,20 @@ namespace WebApi.Controllers
             }
             return response;
         }
+        // POST: api/<BookController>
+        [HttpPost]
+        public async Task<Response<Book>> CreateBook([FromBody] Book book)
+        {
+            var response = new Response<Book>();
+            try
+            {
+                await _bookManager.CreateBook(book);
+            }
+            catch (Exception ex)
+            {
+                response.ErrorList.Add(ex.Adapt<ApiException>());
+            }
+            return response;
+        }
     }
 }
