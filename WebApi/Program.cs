@@ -41,7 +41,7 @@ namespace WebApi
                 try
                 {
                     var context = services.GetRequiredService<LibraryContext>();
-                    context.Database.Migrate();
+                    context.Database.EnsureCreated();
                 }
                 catch (Exception ex)
                 {
